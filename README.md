@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning projects I have created using Python.
