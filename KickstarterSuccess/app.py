@@ -7,7 +7,7 @@ from pathlib import Path
 
 st.set_page_config(page_title = "Kickstarter Dashboard", layout="wide")
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 
 dashboard_data = pd.read_csv(BASE_DIR/"data"/"dashboard_data.csv")
 feature_importance = pd.read_csv(BASE_DIR/"data"/"feature_importance.csv")
