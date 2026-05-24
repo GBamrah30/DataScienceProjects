@@ -1,0 +1,1998 @@
+name,is_free,release_year,recommendations,metacritic_score,genres,app_id
+Counter-Strike 2,True,2012,4868989.0,,"['Action', 'Free To Play']",730
+Quarantine Zone: The Last Check,False,2026,873.0,,"['Indie', 'Simulation', 'Strategy']",3419520
+Steam Deck,False,2025,,,[],1675200
+ARC Raiders,False,2025,215125.0,,['Action'],1808500
+PUBG: BATTLEGROUNDS,True,2017,1754636.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",578080
+Where Winds Meet,True,2025,,,"['Action', 'Adventure', 'RPG', 'Free To Play']",3564740
+Dota 2,True,2013,14372.0,90.0,"['Action', 'Strategy', 'Free To Play']",570
+Warframe,True,2013,2879.0,69.0,"['Action', 'RPG', 'Free To Play']",230410
+StarRupture,False,2026,4258.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",1631270
+Apex Legends™,True,2020,1573.0,88.0,"['Action', 'Adventure', 'Free To Play']",1172470
+Marvel Rivals,True,2024,,,"['Action', 'Free To Play']",2767030
+ARK: Survival Ascended,False,2023,84021.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",2399830
+Dead by Daylight,False,2016,634726.0,,['Action'],381210
+R.E.P.O.,False,2025,276857.0,,"['Action', 'Early Access']",3241660
+"Warhammer 40,000: Space Marine 2",False,2024,142908.0,82.0,"['Action', 'Adventure', 'RPG']",2183900
+Grand Theft Auto V Enhanced,False,2025,132876.0,,"['Action', 'Adventure', 'Racing']",3240220
+Euro Truck Simulator 2,False,2012,735891.0,79.0,"['Indie', 'Simulation']",227300
+War Thunder,True,2013,1953.0,81.0,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",236390
+Rust,False,2018,1094416.0,69.0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",252490
+Path of Exile 2,False,2024,149968.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Early Access']",2694490
+Baldur's Gate 3,False,2023,719566.0,96.0,"['Adventure', 'RPG', 'Strategy']",1086940
+PEAK,False,2025,224855.0,,"['Action', 'Adventure', 'Indie']",3527290
+Arena Breakout: Infinite,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2073620
+Delta Force,True,2024,,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",2507950
+Battlefield™ 6,False,2025,246436.0,82.0,['Action'],2807960
+NBA 2K26,False,2025,9083.0,,['Sports'],3472040
+Wuthering Waves,True,2025,,,"['Action', 'Adventure', 'RPG', 'Free To Play']",3513350
+Avatar: Frontiers of Pandora™,False,2024,8951.0,,"['Action', 'Adventure']",2840770
+Detroit: Become Human,False,2020,185218.0,80.0,"['Action', 'Adventure']",1222140
+Resident Evil Requiem,False,2026,,,"['Action', 'Adventure']",3764200
+It Takes Two Friend's Pass,False,2021,200611.0,89.0,"['Action', 'Adventure', 'Indie']",2995920
+ELDEN RING,False,2022,800063.0,94.0,"['Action', 'RPG']",1245620
+Age of Mythology: Retold,False,2024,18450.0,83.0,['Strategy'],1934680
+The Roottrees are Dead,False,2025,5108.0,86.0,['Adventure'],2754380
+HELLDIVERS™ 2,False,2024,791440.0,,['Action'],553850
+RV There Yet?,False,2025,55745.0,,"['Action', 'Adventure', 'Indie']",3949040
+Dead Island 2,False,2024,15038.0,,"['Action', 'Adventure']",934700
+EA SPORTS FC™ 26,False,2025,34972.0,,"['Simulation', 'Sports']",3405690
+Diablo® IV,False,2023,47369.0,,"['Action', 'RPG']",2344520
+Fallout 76,False,2020,72681.0,,['RPG'],1151340
+Blue Archive,True,2025,,,"['Adventure', 'Casual', 'RPG', 'Strategy', 'Free To Play']",3557620
+Dispatch,False,2025,147940.0,87.0,"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",2592160
+Limbus Company,True,2023,,,[],1973530
+Blue Prince,False,2025,13769.0,92.0,"['Adventure', 'Indie', 'Strategy']",1569580
+Pathologic 3,False,2026,885.0,,"['Adventure', 'Indie', 'RPG', 'Simulation']",3199650
+Yu-Gi-Oh! Master Duel,True,2022,,,"['Simulation', 'Strategy', 'Free To Play']",1449850
+World of Warships,True,2017,2007.0,81.0,"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",552990
+Return of the Obra Dinn,False,2018,29257.0,89.0,"['Adventure', 'Indie']",653530
+Contraband Police,False,2023,22434.0,77.0,"['Action', 'Adventure', 'Simulation']",756800
+Once Human,True,2024,,,"['Action', 'Adventure', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",2139460
+Stardew Valley,False,2016,829168.0,89.0,"['Indie', 'RPG', 'Simulation']",413150
+Wallpaper Engine,False,2018,883608.0,,"['Casual', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Photo Editing', 'Utilities']",431960
+It Takes Two,False,2021,200624.0,89.0,"['Action', 'Adventure']",1426210
+ELDEN RING NIGHTREIGN,False,2025,118022.0,,"['Action', 'RPG']",2622380
+Schedule I,False,2025,247668.0,,"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3164500
+Nioh 3,False,2026,,,"['Action', 'RPG']",3681010
+Gamblers Table,False,2026,514.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",3618390
+American Truck Simulator,False,2016,156950.0,76.0,"['Indie', 'Simulation']",270880
+Eternal Return,True,2023,107.0,,"['Indie', 'Strategy', 'Free To Play']",1049590
+Clair Obscur: Expedition 33,False,2025,160216.0,91.0,"['Action', 'RPG']",1903340
+FINAL FANTASY XIV Online,False,2014,76266.0,83.0,"['Massively Multiplayer', 'RPG']",39210
+Team Fortress 2,True,2007,45829.0,92.0,"['Action', 'Free To Play']",440
+Tom Clancy's Rainbow Six® Siege X,True,2015,1226433.0,,"['Action', 'Free To Play']",359550
+Cyberpunk 2077,False,2020,823076.0,86.0,['RPG'],1091500
+ARC Raiders - The Bonecrown Set,False,2025,117.0,,['Action'],4210150
+Magic: The Gathering Arena,True,2023,,,"['Strategy', 'Free To Play']",2141910
+Microsoft Flight Simulator 2024,False,2024,16921.0,,['Simulation'],2537590
+Fallout 4,False,2015,278794.0,84.0,['RPG'],377160
+Farming Simulator 25,False,2024,29861.0,,['Simulation'],2300320
+Age of Empires II: Definitive Edition,False,2019,150728.0,84.0,['Strategy'],813780
+EA SPORTS FC™ 25,False,2024,93935.0,,"['Simulation', 'Sports']",2669320
+CODE VEIN II,False,2026,,,"['Action', 'RPG']",2362060
+Destiny 2,True,2019,133202.0,83.0,"['Action', 'Adventure', 'Free To Play']",1085660
+Black Desert,False,2017,60917.0,80.0,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy']",582660
+Call of Duty®: Black Ops 7,False,2025,3038.0,,['Action'],3606480
+Football Manager 26,False,2025,15735.0,,"['Simulation', 'Sports', 'Strategy']",3551340
+Overwatch® 2,True,2023,239.0,,"['Action', 'Free To Play']",2357570
+Palworld,False,2024,346183.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",1623730
+The Sims™ 4,True,2020,82291.0,,"['Adventure', 'Casual', 'Simulation', 'Free To Play']",1222670
+Abyssus,False,2025,3474.0,,"['Action', 'Adventure', 'Indie']",1721110
+RimWorld,False,2018,196097.0,87.0,"['Indie', 'Simulation', 'Strategy']",294100
+BeamNG.drive,False,2015,340324.0,,"['Racing', 'Simulation', 'Early Access']",284160
+Phoenix Wright: Ace Attorney Trilogy,False,2019,32972.0,80.0,['Adventure'],787480
+Anno 1800,False,2019,27427.0,81.0,"['Simulation', 'Strategy']",916440
+STAR WARS™: The Old Republic™,True,2020,449.0,85.0,"['Massively Multiplayer', 'RPG', 'Free To Play']",1286830
+Street Fighter™ 6,False,2023,43321.0,92.0,"['Action', 'Adventure']",1364780
+Escape from Tarkov,False,2025,38638.0,,"['Action', 'Massively Multiplayer', 'RPG', 'Simulation']",3932890
+HITMAN World of Assassination,False,2022,48817.0,87.0,"['Action', 'Adventure']",1659040
+F1® 25,False,2025,16134.0,,"['Racing', 'Simulation', 'Sports']",3059520
+Manor Lords,False,2024,68807.0,,"['Simulation', 'Strategy', 'Early Access']",1363080
+DRAGON QUEST VII Reimagined,False,2026,,,"['Adventure', 'RPG']",2499860
+Monster Hunter Wilds,False,2025,185395.0,,"['Action', 'Adventure', 'RPG']",2246340
+The Elder Scrolls® Online,False,2017,131174.0,80.0,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",306130
+Green Hell,False,2019,67839.0,78.0,"['Action', 'Adventure', 'Indie', 'Simulation']",815370
+ARK: Lost Colony Expansion Pass,False,2025,723.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3720100
+Animal Shelter 2,False,2025,706.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",2658510
+Call of Duty®: Warzone™,True,2022,9653.0,,"['Action', 'Free To Play']",1962663
+MapleStory,True,2012,,,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",216150
+Black Myth: Wukong,False,2024,864220.0,,"['Action', 'Adventure', 'RPG']",2358720
+Factorio,False,2020,185843.0,90.0,"['Casual', 'Indie', 'Simulation', 'Strategy']",427520
+THE FINALS,True,2023,,,"['Action', 'Free To Play']",2073850
+The Outlast Trials,False,2024,74474.0,,"['Action', 'Adventure', 'Indie']",1304930
+iRacing,False,2015,4644.0,79.0,"['Massively Multiplayer', 'Racing', 'Simulation', 'Sports']",266410
+Tainted Grail: The Fall of Avalon,False,2025,23805.0,80.0,"['Action', 'Adventure', 'Indie', 'RPG']",1466060
+Lost Ark,True,2022,65234.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1599340
+Enshrouded,False,2024,82917.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",1203620
+Phasmophobia,False,2020,656372.0,,"['Action', 'Indie', 'Early Access']",739630
+The Planet Crafter,False,2024,60159.0,,['Adventure'],1284190
+Forza Horizon 5,False,2021,239059.0,,"['Action', 'Adventure', 'Racing', 'Simulation', 'Sports']",1551360
+Project Zomboid,False,2013,322998.0,,"['Indie', 'RPG', 'Simulation', 'Early Access']",108600
+Hearts of Iron IV,False,2016,265863.0,83.0,"['Simulation', 'Strategy']",394360
+Magical Girl Witch Trials,False,2025,22472.0,,"['Adventure', 'Indie', 'Simulation']",3101040
+Total War: WARHAMMER III,False,2022,96571.0,86.0,"['Action', 'Strategy']",1142710
+Mount & Blade II: Bannerlord,False,2022,218583.0,77.0,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",261550
+MISERY,False,2025,13197.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation']",2119830
+Kingdom Come: Deliverance II,False,2025,117836.0,89.0,"['Action', 'Adventure', 'RPG']",1771300
+Sons Of The Forest,False,2024,257858.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",1326470
+Ashes of Creation,False,2025,8224.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",4124950
+theHunter: Call of the Wild™,False,2017,160154.0,,"['Adventure', 'Simulation', 'Sports']",518790
+VRChat,True,2017,149.0,,"['Adventure', 'Casual', 'Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play', 'Early Access']",438100
+eFootball™,True,2021,1211.0,,"['Simulation', 'Sports', 'Free To Play']",1665460
+Split Fiction,False,2025,68543.0,,"['Action', 'Adventure']",2001120
+WARNO,False,2024,12930.0,,"['Action', 'Indie', 'Simulation', 'Strategy']",1611600
+Risk of Rain 2,False,2020,230695.0,85.0,"['Action', 'Indie']",632360
+Hunt: Showdown 1896,False,2019,204126.0,81.0,['Action'],594650
+Cities: Skylines II,False,2023,57498.0,,['Simulation'],949230
+ELDEN RING Shadow of the Erdtree,False,2024,81450.0,92.0,"['Action', 'RPG']",2778580
+ICARUS,False,2021,46127.0,,"['Action', 'Adventure', 'Simulation']",1149460
+My Winter Car,False,2025,13109.0,,"['Indie', 'Racing', 'Simulation', 'Early Access']",4164420
+Terra Invicta,False,2026,7345.0,,"['Simulation', 'Strategy']",1176470
+Confidential Killings - A Detective Game,False,2026,,,"['Adventure', 'Indie', 'Simulation']",2797960
+Deadzone: Rogue,False,2025,10912.0,,['Action'],3228590
+Raft,False,2022,309816.0,,"['Adventure', 'Indie', 'Simulation']",648800
+DYNASTY WARRIORS: ORIGINS,False,2025,17643.0,84.0,"['Action', 'RPG', 'Strategy']",2384580
+NARAKA: BLADEPOINT,True,2021,197437.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",1203220
+Guild Wars 2,True,2022,437.0,90.0,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1284210
+Throne and Liberty,True,2024,10827.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2429640
+Satisfactory,False,2024,217308.0,91.0,"['Adventure', 'Indie', 'Simulation', 'Strategy']",526870
+Torchlight: Infinite,True,2023,,,"['Action', 'Adventure', 'RPG', 'Free To Play']",1974050
+The Séance of Blake Manor,False,2025,1736.0,89.0,['Adventure'],1395520
+Umamusume: Pretty Derby,True,2025,,,"['Simulation', 'Sports', 'Free To Play']",3224770
+Red Dead Redemption 2,False,2019,763192.0,93.0,"['Action', 'Adventure']",1174180
+L.A. Noire,False,2011,29561.0,83.0,"['Adventure', 'Strategy']",110800
+Dream of Corpse Lady,False,2026,146.0,,"['Adventure', 'Indie', 'Strategy']",2842800
+Resident Evil 3,False,2020,66869.0,77.0,['Action'],952060
+Resident Evil Village,False,2021,92426.0,83.0,['Action'],1196590
+Crusader Kings III,False,2020,90598.0,91.0,"['RPG', 'Simulation', 'Strategy']",1158310
+Geometry Dash,False,2014,470019.0,,"['Action', 'Indie']",322170
+Dragon's Dogma 2,False,2024,73053.0,88.0,"['Action', 'RPG']",2054970
+Living With Sister: Monochrome Fantasy,False,2024,10846.0,,['Indie'],2429860
+Terraria,False,2011,1171253.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG']",105600
+Euro Truck Simulator 2 - Nordic Horizons,False,2025,1041.0,,"['Indie', 'Simulation']",2780810
+Cyberpunk 2077: Phantom Liberty,False,2023,20617.0,,['RPG'],2138330
+Hades II,False,2025,102979.0,94.0,"['Action', 'Indie', 'RPG']",1145350
+Anno 117: Pax Romana,False,2025,9425.0,84.0,"['Simulation', 'Strategy']",3274580
+The Drifter,False,2025,3084.0,84.0,"['Adventure', 'Indie']",1170570
+Ace Attorney Investigations Collection,False,2024,2846.0,82.0,['Adventure'],2401970
+Empires of the Undergrowth,False,2024,15399.0,,"['Simulation', 'Strategy']",463530
+Ready or Not,False,2023,239568.0,,"['Action', 'Adventure', 'Indie']",1144200
+Outer Wilds,False,2020,79744.0,85.0,"['Action', 'Adventure']",753640
+Tom Clancy's Ghost Recon® Breakpoint,False,2023,36428.0,,"['Action', 'Adventure']",2231380
+Solo Leveling: ARISE OVERDRIVE,False,2025,5145.0,,"['Action', 'RPG']",2373990
+Stellaris,False,2016,137216.0,78.0,"['Simulation', 'Strategy']",281990
+"Warhammer 40,000: Darktide",False,2022,100288.0,,"['Action', 'Adventure', 'RPG']",1361210
+Garry's Mod,False,2006,1041808.0,,"['Casual', 'Indie', 'Simulation']",4000
+MIMESIS,False,2025,5898.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",2827200
+Devil May Cry 5,False,2019,108536.0,89.0,['Action'],601150
+Big Hops,False,2026,,,"['Action', 'Adventure', 'Indie']",1221480
+Sid Meier's Civilization VII,False,2025,39006.0,79.0,"['Simulation', 'Strategy']",1295660
+Persona 5 Royal,False,2022,78599.0,95.0,['RPG'],1687950
+The Binding of Isaac: Rebirth,False,2014,340998.0,,['Action'],250900
+DYNASTY WARRIORS: ORIGINS Visions of Four Heroes,False,2026,,,"['Action', 'RPG', 'Strategy']",4038930
+The Elder Scrolls V: Skyrim Special Edition,False,2016,203744.0,74.0,['RPG'],489830
+Cozy Caravan,False,2026,734.0,,"['Adventure', 'Casual', 'Indie']",2788520
+Heavy Rain,False,2020,20650.0,75.0,"['Action', 'Adventure']",960910
+ARK: Survival Evolved,False,2017,569262.0,70.0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",346110
+Battlefield™ REDSEC,True,2025,8971.0,,"['Action', 'Free To Play']",3028330
+Alchemy Factory,False,2025,1133.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3669570
+Golf With Your Friends,False,2020,46984.0,,"['Casual', 'Indie', 'Sports']",431240
+Shape of Dreams,False,2025,12638.0,,"['Action', 'Adventure', 'Indie', 'RPG']",2444750
+INAZUMA ELEVEN: Victory Road,False,2025,9855.0,,"['RPG', 'Sports']",2799860
+Among Us,False,2018,632342.0,85.0,['Casual'],945360
+Tom Clancy’s The Division® 2,False,2023,24828.0,84.0,"['Action', 'Adventure', 'RPG']",2221490
+World of Sea Battle,True,2025,,,"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",2948190
+The Case of the Golden Idol,False,2022,8543.0,,"['Adventure', 'Indie']",1677770
+Fallout: New Vegas,False,2010,192725.0,84.0,"['Action', 'RPG']",22380
+Hollow Knight: Silksong,False,2025,351975.0,90.0,"['Action', 'Adventure', 'Indie']",1030300
+Stray,False,2022,147868.0,82.0,"['Adventure', 'Indie']",1332010
+Conqueror's Blade,True,2020,4089.0,,"['Action', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",835570
+Jurassic World Evolution 3,False,2025,6597.0,81.0,"['Simulation', 'Strategy']",2958130
+Megabonk,False,2025,87480.0,,"['Action', 'Casual', 'Indie']",3405340
+Workers & Resources: Soviet Republic,False,2024,22467.0,81.0,"['Simulation', 'Strategy']",784150
+Disco Elysium - The Final Cut,False,2019,110266.0,97.0,['RPG'],632470
+Yu-Gi-Oh! Duel Links,True,2017,,,"['Strategy', 'Free To Play']",601510
+Dome Keeper,False,2022,15468.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",1637320
+ELDEN RING NIGHTREIGN The Forsaken Hollows,False,2025,6344.0,,"['Action', 'RPG']",3531720
+Sea of Thieves: 2025 Edition,False,2020,315178.0,,"['Action', 'Adventure']",1172620
+The Last Caretaker,False,2025,7238.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",1783560
+EA SPORTS™ Madden NFL 26,False,2025,3328.0,,"['Simulation', 'Sports']",3230400
+Shadowverse: Worlds Beyond,True,2025,,,"['Casual', 'RPG', 'Strategy', 'Free To Play']",2584990
+Arma Reforger,False,2023,38992.0,,"['Action', 'Simulation', 'Strategy']",1874880
+Nobody Wants to Die,False,2024,4241.0,,['Adventure'],1939970
+Cult of the Lamb,False,2022,98285.0,82.0,"['Action', 'Adventure', 'Indie', 'Strategy']",1313140
+Far Cry® 6,False,2023,29570.0,,"['Action', 'Adventure']",2369390
+Digimon Story Time Stranger,False,2025,13303.0,,['RPG'],1984270
+Atomic Heart,False,2023,32969.0,76.0,"['Action', 'Adventure', 'RPG']",668580
+The Bazaar,False,2025,6401.0,,['Strategy'],1617400
+Disney Dreamlight Valley,False,2023,20683.0,,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation']",1401590
+inZOI,False,2025,25874.0,,"['Adventure', 'Casual', 'Simulation', 'Early Access']",2456740
+MY HERO ULTRA RUMBLE,True,2023,,,"['Action', 'Casual', 'Free To Play']",1607250
+ARC Raiders - Upgrade to Deluxe Edition,False,2025,434.0,,['Action'],3948510
+Assetto Corsa,False,2014,127513.0,85.0,"['Indie', 'Racing', 'Simulation', 'Sports']",244210
+The First Descendant,True,2024,,,"['Action', 'Adventure', 'RPG', 'Free To Play']",2074920
+Mount & Blade II: Bannerlord - War Sails,False,2025,3730.0,,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",2927200
+Against the Storm,False,2023,30938.0,91.0,"['Simulation', 'Strategy']",1336490
+Drifter Star: Evolution,False,2025,197.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",4067130
+Dying Light: The Beast,False,2025,52028.0,,"['Action', 'Adventure', 'RPG']",3008130
+"Warhammer 40,000: Dawn of War - Definitive Edition",False,2025,9726.0,,['Strategy'],3556750
+ARK: Bob's Tall Tales,False,2024,1254.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",2881150
+Age of Empires II: DE – The Last Chieftains,False,2026,,,['Strategy'],3219700
+Don't Starve Together,False,2016,360668.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",322330
+CloverPit,False,2025,18964.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Sports', 'Strategy']",3314790
+Starfield,False,2023,111190.0,,['RPG'],1716740
+SCUM,False,2025,94366.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer']",513710
+Kenshi,False,2018,90620.0,75.0,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",233860
+RoadCraft,False,2025,11539.0,,"['Adventure', 'Simulation']",2104890
+Old World,False,2022,5004.0,80.0,"['RPG', 'Simulation', 'Strategy']",597180
+7 Days to Die,False,2024,268364.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",251570
+Sherlock Holmes Chapter One,False,2021,3684.0,77.0,"['Action', 'Adventure']",1137300
+Bellwright,False,2024,15074.0,,"['Action', 'RPG', 'Simulation', 'Strategy', 'Early Access']",1812450
+Le Mans Ultimate,False,2025,11282.0,,"['Racing', 'Simulation', 'Sports']",2399420
+Escape the Backrooms,False,2025,106960.0,,"['Action', 'Indie']",1943950
+Escape Simulator 2,False,2025,3013.0,81.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",2879840
+StarRupture - Supporter Pack,False,2026,,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",4167250
+Halo: The Master Chief Collection,False,2019,230397.0,,['Action'],976730
+Balatro,False,2024,145321.0,90.0,"['Casual', 'Indie', 'Strategy']",2379780
+BALL x PIT,False,2025,18805.0,,"['Action', 'Indie']",2062430
+Company of Heroes 3,False,2023,22027.0,81.0,"['Action', 'Strategy']",1677280
+Stellar Blade™,False,2025,52159.0,,"['Action', 'Adventure', 'RPG']",3489700
+World of Tanks Blitz,True,2016,924.0,,"['Action', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",444200
+Russian Fishing 4,True,2021,,,"['Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Simulation', 'Sports', 'Free To Play']",766570
+Marvel's Spider-Man 2,False,2025,22783.0,,"['Action', 'Adventure']",2651280
+Super Fantasy Kingdom,False,2025,4285.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",2289750
+Age of Empires IV: Anniversary Edition,False,2021,67335.0,81.0,['Strategy'],1466860
+Brawlhalla,True,2017,2891.0,,"['Action', 'Indie', 'Free To Play']",291550
+Far Cry® 4,False,2014,61415.0,80.0,"['Action', 'Adventure']",298110
+"No, I'm not a Human",False,2025,21759.0,,"['Indie', 'Simulation']",3180070
+Valve Index® Controllers,False,2019,,,[],1059550
+Bloons TD 6,False,2018,332927.0,,['Strategy'],960090
+Gamer Stop Simulator,False,2026,,,"['Casual', 'Indie', 'Simulation', 'Early Access']",3499220
+Fishing Planet,True,2017,546.0,,"['Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play']",380600
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,False,2020,66866.0,91.0,['Simulation'],1250410
+Ghost Trick: Phantom Detective,False,2023,5581.0,90.0,"['Action', 'Adventure']",1967430
+Europa Universalis V,False,2025,20154.0,,['Strategy'],3450310
+Watch_Dogs® 2,False,2016,82876.0,,"['Action', 'Adventure']",447040
+Risk of Rain 2: Alloyed Collective,False,2025,3165.0,,"['Action', 'Indie']",2781620
+Whiskerwood,False,2025,1789.0,,"['Simulation', 'Strategy', 'Early Access']",2489330
+ASKA,False,2024,8892.0,,"['Adventure', 'Simulation', 'Strategy', 'Early Access']",1898300
+FOR HONOR™,False,2017,101775.0,76.0,['Action'],304390
+My Summer Car,False,2025,99864.0,,"['Indie', 'Racing', 'Simulation']",516750
+The Rise of the Golden Idol,False,2024,3304.0,,"['Adventure', 'Indie']",2716400
+Crime Simulator,False,2025,3671.0,,"['Action', 'Indie', 'Simulation']",2737070
+SnowRunner,False,2021,40953.0,,"['Adventure', 'Simulation']",1465360
+Grounded 2,False,2025,15304.0,,"['Action', 'Adventure', 'Early Access']",2661300
+Lethal Company,False,2023,403468.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",1966720
+Sultan's Game,False,2025,22413.0,83.0,"['Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",3117820
+Sophie: The Girl From The Zone,False,2026,,,"['Adventure', 'Indie']",3224840
+DuneCrawl,False,2026,261.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1833200
+Tabletop Simulator,False,2015,46393.0,,"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",286160
+Party Animals,False,2023,53237.0,,"['Action', 'Casual', 'Indie']",1260320
+Lust Goddess,True,2024,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2808930
+Chained Together,False,2024,49730.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",2567870
+"Warhammer 40,000: Gladius - Relics of War",False,2018,7750.0,71.0,['Strategy'],489630
+Factorio: Space Age,False,2024,5849.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",645390
+Valheim,False,2021,442780.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",892970
+Beyond: Two Souls,False,2020,31218.0,76.0,"['Action', 'Adventure']",960990
+Age of Wonders 4,False,2023,15461.0,,"['RPG', 'Strategy']",1669000
+No Rest for the Wicked,False,2024,46562.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",1371980
+Call of Duty®,False,2022,404418.0,,['Action'],1938090
+Call to Arms - Gates of Hell: Ostfront,False,2021,27684.0,,"['Action', 'Simulation', 'Strategy']",400750
+Left 4 Dead 2,False,2009,775158.0,89.0,['Action'],550
+Crimson Desert,False,2026,,,"['Action', 'Adventure', 'RPG']",3321460
+Hollow Knight,False,2017,463378.0,87.0,"['Action', 'Adventure', 'Indie']",367520
+Rising Front,False,2026,3339.0,,"['Action', 'Casual', 'Simulation', 'Strategy']",1560250
+Animal Shelter 2 - Little Friends DLC,False,2026,,,"['Adventure', 'Casual', 'Indie', 'Simulation']",4119650
+Palia,True,2024,,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Free To Play']",2707930
+Metaphor: ReFantazio,False,2024,22462.0,92.0,"['Action', 'Adventure', 'RPG']",2679460
+VEIN,False,2025,7234.0,,"['Action', 'RPG', 'Simulation', 'Early Access']",1857950
+Yakuza Kiwami 3 & Dark Ties,False,2026,,,"['Action', 'Adventure', 'RPG']",3937550
+RuneScape: Dragonwilds,False,2025,21293.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",1374490
+Steam Deck Docking Station,False,2022,,,[],1696780
+Apollo Justice: Ace Attorney Trilogy,False,2024,2858.0,75.0,['Adventure'],2187220
+Lords Mobile: Kingdom Wars,True,2019,,,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",1041320
+GrandChase,True,2021,,,"['Action', 'Casual', 'Free To Play']",985810
+PowerWash Simulator 2,False,2025,8442.0,,"['Casual', 'Indie', 'Simulation']",2968420
+DayZ,False,2018,372581.0,,"['Action', 'Adventure', 'Massively Multiplayer']",221100
+Pathfinder: Wrath of the Righteous - Enhanced Edition,False,2021,31840.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",1184370
+Borderlands 4,False,2025,51323.0,81.0,"['Action', 'Adventure', 'RPG']",1285190
+Aimlabs,True,2023,261.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Free To Play']",714010
+Summoners War,True,2024,,,"['RPG', 'Strategy', 'Free To Play']",2426960
+DREDGE,False,2023,42463.0,,"['Adventure', 'RPG']",1562430
+Ghost of Tsushima DIRECTOR'S CUT,False,2024,55987.0,,"['Action', 'Adventure']",2215430
+Resident Evil 4,False,2023,139746.0,91.0,"['Action', 'Adventure']",2050650
+PGA TOUR 2K25,False,2025,2688.0,,"['RPG', 'Simulation', 'Sports']",2385530
+MineMogul,False,2025,1347.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",3846120
+STALCRAFT: X,True,2022,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1818450
+9 Kings,False,2025,17749.0,,"['RPG', 'Strategy', 'Early Access']",2784470
+The Forest,False,2018,559869.0,83.0,"['Action', 'Adventure', 'Indie', 'Simulation']",242760
+Core Keeper,False,2024,46008.0,85.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",1621690
+"Warhammer 40,000: Rogue Trader",False,2023,27941.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",2186680
+EA Play,False,2020,,,"['Action', 'Sports']",1289670
+Bodycam,False,2024,37237.0,,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Early Access']",2406770
+God of War Ragnarök,False,2024,26162.0,90.0,"['Action', 'Adventure', 'RPG']",2322010
+High On Life,False,2022,17988.0,,"['Action', 'Adventure']",1583230
+Lossless Scaling,False,2018,32400.0,,['Utilities'],993090
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,False,2024,97637.0,,"['Action', 'Adventure', 'RPG']",1643320
+Call of Duty®: Black Ops III,False,2015,148644.0,73.0,"['Action', 'Adventure']",311210
+Call of Cthulhu®,False,2018,10132.0,,"['Adventure', 'RPG']",399810
+Assassin’s Creed Shadows,False,2025,28870.0,,"['Action', 'Adventure', 'RPG']",3159330
+War Robots,True,2018,,,"['Action', 'Free To Play']",767560
+Infinity Nikki,True,2025,,80.0,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation', 'Free To Play']",3164330
+NBA 2K26 Hall of Fame Pass: Season 4,False,2026,,,['Sports'],3657760
+Overcooked,False,2016,12751.0,81.0,"['Action', 'Casual', 'Indie', 'Simulation']",448510
+RimWorld - Odyssey,False,2025,2954.0,,"['Indie', 'Simulation', 'Strategy']",3022790
+Rusty Lake Paradise,False,2018,6073.0,,"['Adventure', 'Indie']",744190
+TCG Card Shop Simulator,False,2024,42863.0,,"['Simulation', 'Early Access']",3070070
+Voidtrain,False,2025,7190.0,82.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",1159690
+World of Tanks,True,2021,513.0,80.0,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",1407200
+Pummel Party,False,2018,44581.0,,"['Action', 'Casual', 'Indie']",880940
+Shadows of Doubt,False,2024,13809.0,,"['Action', 'Adventure', 'Indie', 'RPG']",986130
+Fapout 69 ☢️,False,2026,,,"['Casual', 'Indie', 'Simulation']",4013330
+DELTARUNE,False,2025,85275.0,,"['Indie', 'RPG']",1671210
+Albion Online,True,2018,1881.0,,"['Massively Multiplayer', 'RPG', 'Free To Play']",761890
+The Witcher 3: Wild Hunt,False,2015,802318.0,93.0,['RPG'],292030
+Strange Horticulture,False,2022,13447.0,83.0,"['Adventure', 'Indie', 'Simulation']",1574580
+DARK SOULS™ III,False,2016,270450.0,89.0,['Action'],374320
+WARNO - Nemesis #5 - Southern Flank,False,2026,,,"['Action', 'Indie', 'Simulation', 'Strategy']",4100510
+Sherlock Holmes The Awakened,False,2023,2130.0,,['Adventure'],1949030
+Battle Brothers,False,2017,23800.0,80.0,"['RPG', 'Simulation', 'Strategy']",365360
+Cities: Skylines,False,2015,212460.0,85.0,"['Simulation', 'Strategy']",255710
+Summer Beach,False,2026,,,"['Casual', 'RPG', 'Simulation']",1936020
+Divinity: Original Sin 2 - Definitive Edition,False,2017,172982.0,93.0,"['Adventure', 'RPG', 'Strategy']",435150
+House Flipper 2,False,2023,14083.0,79.0,"['Casual', 'Indie', 'Simulation']",1190970
+The Isle,False,2015,95725.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early Access']",376210
+The Last of Us™ Part II Remastered,False,2025,26158.0,,"['Action', 'Adventure']",2531310
+Liar's Bar,False,2024,46575.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3097560
+Euro Truck Simulator 2 - Greece,False,2024,1221.0,,"['Indie', 'Simulation']",2604420
+Hell Let Loose,False,2021,94993.0,79.0,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']",686810
+Super Bunny Man,False,2023,8998.0,,"['Action', 'Indie']",673750
+MudRunner,False,2017,34702.0,,['Simulation'],675010
+MudRunner,False,2017,34702.0,,['Simulation'],675010
+Assetto Corsa EVO,False,2025,11991.0,,"['Racing', 'Simulation', 'Sports', 'Early Access']",3058630
+WorldBox - God Simulator,False,2021,45274.0,,"['Indie', 'Simulation', 'Early Access']",1206560
+NBA 2K26 MyCAREER Season 4 Bonus Offer,False,2026,,,['Sports'],3657770
+ENDLESS™ Legend 2,False,2025,1556.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",3407390
+South Park™: The Fractured But Whole™,False,2017,30247.0,,['RPG'],488790
+No Man's Sky,False,2016,297815.0,61.0,"['Action', 'Adventure']",275850
+Absolum,False,2025,6665.0,87.0,"['Action', 'Adventure', 'Indie', 'RPG']",1904480
+Euro Truck Simulator 2 - West Balkans,False,2023,1693.0,,"['Indie', 'Simulation']",2004210
+Abiotic Factor,False,2025,36122.0,,"['Action', 'Adventure', 'RPG', 'Simulation']",427410
+Wizardry Variants Daphne,True,2025,,,['RPG'],2379740
+TEKKEN 8,False,2024,42283.0,91.0,['Action'],1778820
+Cult of the Lamb: Woolhaven,False,2026,,,"['Action', 'Adventure', 'Indie', 'Strategy']",3840050
+Fallout Shelter,True,2017,,63.0,"['RPG', 'Simulation', 'Free To Play']",588430
+Overcooked! 2,False,2018,57601.0,81.0,"['Action', 'Casual', 'Indie']",728880
+Escape From Duckov,False,2025,77952.0,,"['Action', 'Adventure', 'Indie', 'RPG']",3167020
+A Plague Tale: Requiem,False,2022,17752.0,82.0,"['Action', 'Adventure']",1182900
+Cuphead,False,2017,180637.0,88.0,"['Action', 'Indie']",268910
+Total War: WARHAMMER II,False,2017,87646.0,87.0,"['Action', 'Strategy']",594570
+Moonlighter 2: The Endless Vault,False,2025,1676.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",2350790
+Supermarket Simulator,False,2025,73294.0,,"['Casual', 'Indie', 'Simulation']",2670630
+WWE 2K25,False,2025,3420.0,,"['Simulation', 'Sports']",2878960
+Sid Meier’s Civilization® VI,False,2016,267651.0,88.0,['Strategy'],289070
+Rise of Eros,True,2023,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2346550
+Tainted Grail: The Fall of Avalon - Sanctuary of Sarras DLC,False,2025,229.0,,"['Action', 'Adventure', 'Indie', 'RPG']",4132150
+Train Sim World® 6,False,2025,819.0,,['Simulation'],3656800
+Assetto Corsa Competizione,False,2019,29837.0,77.0,"['Racing', 'Simulation', 'Sports']",805550
+Species: Unknown,False,2025,3618.0,,"['Action', 'Indie', 'Early Access']",2747330
+Pathologic 2,False,2019,9039.0,,"['Adventure', 'Indie', 'RPG']",505230
+Blood Money: Lethal Eden,False,2026,919.0,,"['Casual', 'RPG', 'Simulation']",3850560
+Pacific Drive,False,2024,19117.0,,"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",1458140
+Jump Space,False,2025,8077.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",1757300
+Victoria 3,False,2022,39444.0,,"['Simulation', 'Strategy']",529340
+Lies of P,False,2023,52063.0,,"['Action', 'Adventure', 'RPG']",1627720
+Love Love Mystery Club,False,2026,,,"['Adventure', 'Casual', 'RPG', 'Simulation']",3904990
+Blue Protocol: Star Resonance,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",3681810
+Smutstone,True,2026,,,"['Adventure', 'Strategy', 'Free To Play']",3330500
+Beat Saber,False,2019,69080.0,93.0,['Indie'],620980
+DRAGON BALL GEKISHIN SQUADRA,True,2025,,,"['Action', 'Free To Play']",2072560
+Persona5: The Phantom X,True,2025,,,"['Adventure', 'RPG', 'Free To Play']",3061570
+ULTRAKILL,False,2020,176362.0,,"['Action', 'Indie', 'Early Access']",1229490
+Destiny 2: Renegades,False,2025,1058.0,,"['Action', 'Adventure', 'Free To Play']",3186540
+TheoTown,False,2019,3756.0,,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1084020
+Starward,True,2024,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2764370
+Hogwarts Legacy,False,2023,261030.0,83.0,"['Action', 'Adventure', 'RPG']",990080
+Tavern Keeper 🍻,False,2025,3776.0,,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",436780
+Vampire Survivors,False,2022,245409.0,86.0,"['Action', 'Casual', 'Indie', 'RPG']",1794680
+Little Nightmares II,False,2021,46671.0,83.0,['Adventure'],860510
+Chants of Sennaar,False,2023,25059.0,86.0,"['Adventure', 'Indie']",1931770
+REANIMAL,False,2026,,,['Adventure'],2129530
+Vampire Survivors,False,2022,245408.0,86.0,"['Action', 'Casual', 'Indie', 'RPG']",1794680
+Two Point Museum,False,2025,7874.0,84.0,"['Casual', 'Indie', 'Simulation', 'Strategy']",2185060
+Destiny 2: Renegades,False,2025,1058.0,,"['Action', 'Adventure', 'Free To Play']",3186540
+RAID: Shadow Legends,True,2024,,,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2333480
+Teardown,False,2022,112100.0,80.0,"['Action', 'Indie', 'Simulation', 'Strategy']",1167630
+Backrooms: Escape Together,False,2022,27188.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",2141730
+Dead by Daylight - The Halloween® Chapter,False,2016,4329.0,,['Action'],530711
+Riders Republic,False,2023,26500.0,,"['Massively Multiplayer', 'Sports']",2290180
+Deep Rock Galactic,False,2020,291596.0,85.0,['Action'],548430
+Oxygen Not Included,False,2019,128609.0,85.0,"['Indie', 'Simulation']",457140
+PAYDAY 2,False,2013,441414.0,79.0,"['Action', 'RPG']",218620
+Isekai Adventurer Guild,False,2026,,,"['Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3614160
+Planet Zoo,False,2019,76771.0,81.0,"['Casual', 'Simulation', 'Strategy']",703080
+Conan Exiles,False,2018,74965.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",440900
+Witchfire,False,2024,12567.0,,"['Action', 'Early Access']",3156770
+DARK SOULS™: REMASTERED,False,2018,91871.0,84.0,['Action'],570940
+FEMBOY FUTA HOUSE,False,2025,2905.0,,"['Adventure', 'Casual', 'RPG', 'Simulation']",3602290
+Assetto Corsa Rally,False,2025,5933.0,,"['Racing', 'Early Access']",3917090
+Devil May Cry HD Collection,False,2018,14884.0,,['Action'],631510
+Elin,False,2024,7455.0,,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2135150
+Car Dealer Simulator,False,2025,6534.0,,"['Casual', 'Indie', 'Simulation']",2404880
+Aethermancer,False,2025,1777.0,,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",2288470
+IdleOn,True,2025,,,"['Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Free To Play']",1476970
+Horizon Walker,True,2025,,,"['RPG', 'Simulation', 'Free To Play']",3279780
+Cloudheim,False,2025,716.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",2070270
+Drive Beyond Horizons,False,2025,14593.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Early Access']",2625420
+DCS World Steam Edition,True,2013,689.0,,"['Simulation', 'Free To Play']",223750
+Strinova,True,2024,,,"['Action', 'Massively Multiplayer', 'Free To Play']",1282270
+The Last of Us™ Part I,False,2023,56624.0,,"['Action', 'Adventure']",1888930
+V Rising,False,2024,105953.0,,"['Action', 'Adventure', 'Massively Multiplayer']",1604030
+Euro Truck Simulator 2 - Scandinavia,False,2015,4756.0,,"['Indie', 'Simulation']",304212
+OCTOPATH TRAVELER 0,False,2025,1865.0,,['RPG'],3014320
+Throne and Liberty Winter Celebration Pack: Gold,False,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",4120040
+Arma 3,False,2013,225986.0,74.0,"['Action', 'Simulation', 'Strategy']",107410
+RuneScape ®,True,2020,,,"['Massively Multiplayer', 'RPG', 'Free To Play']",1343400
+The Dark Queen of Mortholme,False,2025,2335.0,,"['Action', 'Indie']",3587610
+Gunfire Reborn,False,2021,87158.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1217060
+Living With Sister: Monochrome Fantasy - Expansion DLC,False,2024,770.0,,['Indie'],3062990
+RimWorld - Biotech,False,2022,3015.0,,"['Indie', 'Simulation', 'Strategy']",1826140
+Squad,False,2020,170319.0,,"['Action', 'Indie', 'Massively Multiplayer', 'Strategy']",393380
+Subnautica,False,2018,303760.0,87.0,"['Adventure', 'Indie']",264710
+The Planet Crafter - Toxicity,False,2025,334.0,,['Adventure'],4078590
+The Escapists 2,False,2017,25821.0,75.0,"['Indie', 'Simulation', 'Strategy']",641990
+Barn Finders,False,2020,3847.0,,"['Casual', 'Indie', 'Simulation']",991170
+Car Mechanic Simulator 2021,False,2021,32615.0,,"['Racing', 'Simulation']",1190000
+"Expansion - Hearts of Iron IV: No Compromise, No Surrender",False,2025,1362.0,,"['Simulation', 'Strategy']",3796260
+JDM: Japanese Drift Master,False,2025,4205.0,,"['Casual', 'Racing', 'Simulation', 'Sports']",1153410
+Knight Online,True,2016,110.0,,"['Action', 'Adventure', 'Free To Play', 'Massively Multiplayer', 'RPG']",389430
+Path of Exile,True,2013,1032.0,86.0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",238960
+DRAGON QUEST I & II HD-2D Remake,False,2025,1300.0,,['RPG'],2893570
+Resident Evil 0,False,2016,11134.0,,"['Action', 'Adventure']",339340
+PRAGMATA,False,2026,,,"['Action', 'Adventure']",3357650
+DAVE THE DIVER,False,2023,128108.0,90.0,"['Adventure', 'Casual', 'RPG', 'Simulation']",1868140
+Dune: Awakening,False,2025,61151.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",1172710
+Hades,False,2020,274054.0,93.0,"['Action', 'Indie', 'RPG']",1145360
+Ark Re:Code,True,2025,,,"['Action', 'Casual', 'RPG', 'Free To Play']",3587140
+Vital Shell,False,2026,476.0,,"['Action', 'RPG']",3741860
+The Binding of Isaac: Repentance,False,2021,13089.0,,"['Action', 'Adventure', 'RPG']",1426300
+ROUTINE,False,2025,4018.0,79.0,"['Action', 'Adventure', 'Indie']",606160
+MY HERO ACADEMIA: All’s Justice,False,2026,,,['Action'],2362050
+Planet Coaster 2,False,2024,10838.0,76.0,"['Simulation', 'Strategy']",2688950
+Grounded,False,2022,71897.0,83.0,"['Action', 'Adventure']",962130
+Watch_Dogs™,False,2014,45052.0,77.0,"['Action', 'Adventure']",243470
+Songs of Syx,False,2020,6774.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",1162750
+Wartales,False,2023,29991.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",1527950
+Wizard101,True,2018,,,"['Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",799960
+Buckshot Roulette,False,2024,96809.0,,"['Action', 'Indie', 'Simulation']",2835570
+Star Trek Online,True,2012,928.0,66.0,"['Massively Multiplayer', 'RPG', 'Free To Play']",9900
+Diplomacy is Not an Option,False,2024,9466.0,80.0,"['Indie', 'Simulation', 'Strategy']",1272320
+No Case Should Remain Unsolved,False,2024,8479.0,,"['Adventure', 'Indie']",2676840
+在赛博世界和100个道侣修仙,False,2026,180.0,,"['Action', 'Indie', 'RPG']",2421360
+DON'T SCREAM TOGETHER,False,2025,1539.0,,"['Casual', 'Simulation']",2692990
+Poppy Playtime,True,2021,34399.0,,"['Action', 'Adventure', 'Indie']",1721470
+Insurgency: Sandstorm,False,2018,101652.0,78.0,['Action'],581320
+Medieval Dynasty,False,2021,40201.0,73.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",1129580
+Icarus: New Frontiers Expansion,False,2023,476.0,,"['Action', 'Adventure', 'Simulation']",1648532
+Borderlands 3,False,2020,125600.0,81.0,"['Action', 'RPG']",397540
+Monster Hunter: World,False,2018,310587.0,88.0,['Action'],582010
+DC Universe™ Online,True,2011,214.0,72.0,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",24200
+Space Engineers,False,2019,101155.0,,"['Action', 'Indie', 'Simulation', 'Strategy']",244850
+The Operator,False,2024,6953.0,78.0,"['Adventure', 'Indie', 'Simulation']",1771980
+ARK: Astraeos,False,2025,570.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3483400
+Sekiro™: Shadows Die Twice - GOTY Edition,False,2019,248861.0,88.0,"['Action', 'Adventure']",814380
+Chill with You : Lo-Fi Story,False,2025,7537.0,,"['Adventure', 'Casual', 'Indie']",3548580
+X4: Foundations,False,2018,22460.0,,"['Action', 'Simulation', 'Strategy']",392160
+Euro Truck Simulator 2 - Iberia,False,2021,2243.0,,"['Indie', 'Simulation']",1209460
+REMATCH,False,2025,33163.0,,"['Action', 'Indie', 'Sports']",2138720
+Anthro Heat,False,2025,255.0,,"['Casual', 'Indie', 'Simulation']",2236060
+Tropico 6,False,2019,19046.0,78.0,"['Simulation', 'Strategy']",492720
+KovaaK's,False,2018,34661.0,,"['Action', 'Indie', 'Simulation']",824270
+Slay the Spire,False,2019,175076.0,89.0,"['Indie', 'Strategy']",646570
+The Farmer Was Replaced,False,2025,6879.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",2060160
+Phantasy Star Online 2 New Genesis,True,2020,,,"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",1056640
+Texas Hold'em Poker: Pokerist,True,2025,,,"['Casual', 'Massively Multiplayer', 'Simulation', 'Sports', 'Strategy', 'Free To Play']",3174070
+Backpack Battles,False,2025,17610.0,,['Strategy'],2427700
+The Outer Worlds 2,False,2025,6672.0,,"['Action', 'Adventure', 'RPG']",1449110
+My Best Friend's Sister,False,2026,139.0,,"['Adventure', 'Casual', 'RPG', 'Simulation']",4007700
+Celeste,False,2018,120655.0,88.0,"['Action', 'Adventure', 'Indie']",504230
+SOS OPS!,False,2023,1338.0,,[],2475460
+Totally Accurate Battle Simulator,False,2021,133517.0,,"['Indie', 'Simulation', 'Strategy']",508440
+Totally Accurate Battle Simulator,False,2021,133517.0,,"['Indie', 'Simulation', 'Strategy']",508440
+Call to Arms - Gates of Hell: Finest Hour,False,2025,584.0,,"['Action', 'Simulation', 'Strategy']",3691330
+FreshWomen - Season 2,False,2025,1798.0,,"['Adventure', 'Indie']",3478650
+The Elder Scrolls V: Skyrim Anniversary Upgrade,False,2021,6787.0,,['RPG'],1746860
+ War of the Three Kingdoms,True,2021,,,"['Strategy', 'Free To Play']",1180320
+FINAL FANTASY TACTICS - The Ivalice Chronicles,False,2025,4502.0,,"['RPG', 'Strategy']",1004640
+Liftoff®: FPV Drone Racing,False,2018,12061.0,,"['Indie', 'Racing', 'Simulation', 'Sports']",410340
+Shin Megami Tensei V: Vengeance,False,2024,6870.0,90.0,"['Adventure', 'RPG']",1875830
+Empire of the Ants,False,2024,835.0,,['Strategy'],2287330
+shapez 2,False,2024,11648.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",2162800
+Aeons Echo,True,2024,,,"['Action', 'Casual', 'RPG', 'Free To Play']",2832330
+Kathy Rain 2: Soothsayer,False,2025,911.0,82.0,"['Adventure', 'Indie']",1466390
+Content Warning,False,2024,64211.0,,"['Action', 'Adventure', 'Indie']",2881650
+Feed the Reactor,False,2026,237.0,,"['Casual', 'Simulation', 'Strategy']",4009730
+Darkwood,False,2017,20687.0,80.0,"['Action', 'Adventure', 'RPG', 'Strategy']",274520
+UNBEATABLE,False,2025,3501.0,,['Adventure'],2240620
+"Warhammer 40,000: Boltgun",False,2023,14534.0,75.0,"['Action', 'Indie']",2005010
+Norland,False,2024,7851.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",1857090
+Soundpad,False,2017,89370.0,,"['Audio Production', 'Utilities']",629520
+Gears 5,False,2019,19851.0,82.0,"['Action', 'Adventure']",1097840
+Five Nights at Freddy's: Security Breach,False,2021,62808.0,,"['Action', 'Adventure', 'Indie']",747660
+He is Coming,False,2025,3095.0,,"['RPG', 'Strategy', 'Early Access']",2824490
+Fallout 4 - Creations Bundle,False,2025,580.0,,['RPG'],3868650
+MX Bikes,False,2019,31046.0,,"['Racing', 'Simulation', 'Sports', 'Early Access']",655500
+Age of Mythology: Retold - Expansion Pass,False,2026,,,['Strategy'],4180380
+Euro Truck Simulator 2 - Road to the Black Sea,False,2019,3285.0,,"['Indie', 'Simulation']",1056760
+Season 1 Battlefield Pro - Battlefield™ 6 and REDSEC,False,2025,883.0,,['Action'],3880840
+The Lord of the Rings Online™,True,2012,171.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",212500
+Summer Memories,False,2020,22895.0,,"['Adventure', 'RPG']",1227890
+Grim Dawn,False,2016,87278.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG']",219990
+Blade and Sorcery,False,2024,56858.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",629730
+MechWarrior 5: Mercenaries,False,2021,11959.0,73.0,"['Action', 'Simulation']",784080
+Gorilla Tag,False,2023,44660.0,,"['Action', 'Casual']",1533390
+Kingdom Two Crowns,False,2018,28996.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",701160
+Escape Simulator,False,2021,15853.0,82.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",1435790
+Chivalry 2,False,2022,41367.0,82.0,"['Action', 'Massively Multiplayer']",1824220
+ONE PIECE Bounty Rush,True,2024,,,"['Action', 'Free To Play']",2918150
+Euro Truck Simulator 2 - Vive la France !,False,2016,1910.0,,"['Indie', 'Simulation']",531130
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,False,2022,39111.0,82.0,"['Action', 'Casual', 'Strategy']",1922560
+Necesse,False,2025,21931.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1169040
+From The Ashes Expansion - Avatar: Frontiers of Pandora™,False,2025,,,"['Action', 'Adventure']",3823590
+Town to City,False,2025,4482.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",3115220
+CarX Street,False,2024,15542.0,,"['Massively Multiplayer', 'Racing', 'Simulation', 'Sports']",1114150
+DRAGON BALL Z: KAKAROT,False,2020,42660.0,73.0,"['Action', 'RPG']",851850
+Valve Index® Headset,False,2019,,,[],1059530
+Blood Strike,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'Strategy', 'Free To Play']",3199170
+Waterpark Simulator,False,2025,7581.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",3293260
+Trails in the Sky 1st Chapter,False,2025,2840.0,89.0,"['Action', 'Adventure', 'RPG']",3375780
+Sonic Racing: CrossWorlds,False,2025,9152.0,85.0,"['Action', 'Adventure', 'Racing']",2486820
+Total War: WARHAMMER,False,2016,32471.0,86.0,"['Action', 'Strategy']",364360
+The Great Ace Attorney Chronicles,False,2021,4798.0,83.0,['Adventure'],1158850
+Farthest Frontier,False,2025,22003.0,84.0,"['Indie', 'Simulation', 'Strategy']",1044720
+Plague Inc: Evolved,False,2016,52367.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",246620
+GUILTY GEAR -STRIVE-,False,2021,45196.0,85.0,['Action'],1384160
+From The Ashes Expansion - Avatar: Frontiers of Pandora™,False,2025,,,"['Action', 'Adventure']",3823590
+Conquest of Elysium 5,False,2021,1375.0,,"['Indie', 'Strategy']",1606340
+Euro Truck Simulator 2 - Beyond the Baltic Sea,False,2018,2575.0,,"['Indie', 'Simulation']",925580
+A Game About Feeding A Black Hole,False,2025,1774.0,,"['Casual', 'Indie']",3694480
+Total War: WARHAMMER III - Aislinn – Tides of Torment,False,2025,547.0,,"['Action', 'Strategy']",3450960
+Icarus: Great Hunts Campaigns,False,2025,106.0,,"['Action', 'Adventure', 'Simulation']",3315290
+Space Rock Breaker,False,2025,1020.0,,['Casual'],4035270
+Guild Wars® Reforged,False,2025,2412.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",29720
+Gray Zone Warfare,False,2024,57877.0,,"['Action', 'Massively Multiplayer', 'Simulation', 'Early Access']",2479810
+Uncrashed : FPV Drone Simulator,False,2021,5941.0,,"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']",1682970
+SILENT HILL f,False,2025,14652.0,,"['Action', 'Adventure']",2947440
+Mafia: The Old Country,False,2025,17492.0,73.0,"['Action', 'Adventure']",1941540
+Trailmakers,False,2019,27142.0,,"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",585420
+FANTASY LIFE i: The Girl Who Steals Time,False,2025,11130.0,,['RPG'],2993780
+Bits & Bops,False,2025,1023.0,,"['Action', 'Casual', 'Indie']",1929290
+World War Z,False,2021,21678.0,,['Action'],699130
+Fallout 3: Game of the Year Edition,False,2009,41190.0,91.0,['RPG'],22370
+Demeo x Dungeons & Dragons: Battlemarked,False,2025,756.0,81.0,"['Adventure', 'RPG', 'Strategy']",3124340
+The Lord of the Rings: Return to Moria™,False,2024,9020.0,,"['Action', 'Adventure', 'RPG']",2933130
+Grand Theft Auto IV: The Complete Edition,False,2020,165302.0,90.0,"['Action', 'Adventure']",12210
+Risk of Rain 2: Seekers of the Storm,False,2024,11418.0,,"['Action', 'Indie']",2306620
+LoveCraft,True,2024,,,"['Casual', 'Massively Multiplayer', 'Simulation']",2692440
+Rhythm Doctor,False,2025,22936.0,88.0,"['Action', 'Casual', 'Indie', 'Strategy', 'Free To Play']",774181
+Brotato,False,2023,102056.0,,"['Action', 'Casual', 'Indie', 'RPG']",1942280
+Viewfinder,False,2023,10243.0,84.0,"['Adventure', 'Indie']",1382070
+Jotunnslayer: Hordes of Hel,False,2025,6428.0,,"['Action', 'Indie', 'RPG']",2820820
+Euro Truck Simulator 2 - Italia,False,2017,1936.0,,"['Indie', 'Simulation']",558244
+Fast Food Simulator,False,2024,7246.0,,"['Indie', 'Simulation', 'Early Access']",2916430
+Devil May Cry 4 Special Edition,False,2015,15034.0,,['Action'],329050
+Portal 2,False,2011,376414.0,95.0,"['Action', 'Adventure']",620
+Action Taimanin,True,2020,,,"['Action', 'Adventure', 'RPG', 'Free To Play']",1335200
+DRAGON BALL XENOVERSE 2,False,2016,41292.0,78.0,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer']",454650
+Stronghold Crusader: Definitive Edition,False,2025,8339.0,,"['Simulation', 'Strategy']",3024040
+Shattered Minds,False,2025,797.0,,"['Adventure', 'Casual', 'Indie', 'Early Access']",2713690
+Starfield - Shattered Space,False,2024,3583.0,,['RPG'],2721670
+The Hundred Line -Last Defense Academy-,False,2025,6234.0,83.0,"['Adventure', 'Simulation']",3014080
+Kingdom Come: Deliverance,False,2018,133036.0,76.0,"['Action', 'Adventure', 'RPG']",379430
+Old School RuneScape,True,2021,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1343370
+Gas Station Simulator,False,2021,23016.0,72.0,"['Casual', 'Indie', 'Simulation']",1149620
+Half-Life: Alyx,False,2020,89186.0,93.0,"['Action', 'Adventure']",546560
+Everlusting Life,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",3218710
+God of War,False,2022,120411.0,93.0,"['Action', 'Adventure', 'RPG']",1593500
+Foundation,False,2025,21793.0,84.0,"['Indie', 'Simulation', 'Strategy']",690830
+Automation - The Car Company Tycoon Game,False,2015,15288.0,,"['Indie', 'Racing', 'Simulation', 'Strategy', 'Early Access']",293760
+Cowboy Life Simulator,False,2025,732.0,,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation', 'Early Access']",1151380
+The Sinking City Remastered,False,2021,4778.0,71.0,"['Action', 'Adventure']",750130
+The White Door,False,2020,6144.0,77.0,"['Adventure', 'Indie']",1145960
+Spooky Milk Life,False,2025,752.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",1621540
+Cast n Chill,False,2025,6043.0,,"['Casual', 'Indie', 'RPG', 'Simulation', 'Sports']",3483740
+Horny Villa,True,2024,,,"['Casual', 'RPG', 'Strategy', 'Free To Play']",2903690
+ASTRONEER,False,2019,115575.0,,"['Adventure', 'Indie']",361420
+Total War: WARHAMMER III - Sayl – Tides of Torment,False,2025,324.0,,"['Action', 'Strategy']",3450970
+Borderlands 2,False,2012,213855.0,89.0,"['Action', 'RPG']",49520
+Snowbreak: Containment Zone,True,2023,,,"['Action', 'Adventure', 'RPG']",2668080
+Blacksmith Master,False,2025,2063.0,,"['Simulation', 'Strategy', 'Early Access']",2292800
+Mall Simulator,False,2025,1916.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",3180150
+月华辉映之刻,False,2025,2612.0,,"['Adventure', 'Indie', 'RPG']",2750780
+ANIMAL WELL,False,2024,21310.0,90.0,"['Action', 'Adventure', 'Indie']",813230
+The Sims™ 3,False,2011,30432.0,86.0,['Simulation'],47890
+Five Nights at Freddy's 2,False,2014,22539.0,62.0,['Indie'],332800
+Crime Scene Cleaner,False,2024,26746.0,,"['Action', 'Simulation']",1040200
+PowerWash Simulator,False,2022,49119.0,,"['Casual', 'Indie', 'Simulation']",1290000
+Football Manager 26 In-Game Editor,False,2025,1179.0,,"['Simulation', 'Sports', 'Strategy']",3551410
+Spirit City: Lofi Sessions,False,2024,13748.0,80.0,"['Casual', 'Indie', 'Simulation']",2113850
+Broken Sword - Shadow of the Templars: Reforged,False,2024,756.0,84.0,"['Adventure', 'Casual', 'Indie']",2544110
+DJMAX RESPECT V,False,2020,28807.0,,"['Action', 'Casual', 'Sports']",960170
+Monster Hunter Stories 3: Twisted Reflection,False,2026,,,"['Adventure', 'RPG']",2852190
+KARDS - The WW2 Card Game,True,2020,150.0,80.0,"['Casual', 'Indie', 'Strategy', 'Free To Play']",544810
+Morimens,True,2024,,,"['RPG', 'Strategy', 'Free To Play']",3052450
+Hello Kitty Island Adventure,False,2025,7952.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",2495100
+The Binding of Isaac: Afterbirth,False,2015,7309.0,85.0,"['Action', 'Adventure']",401920
+ODDCORE,False,2026,248.0,,"['Action', 'Indie', 'Early Access']",2896260
+MiSide,False,2024,115323.0,,"['Adventure', 'Indie', 'RPG', 'Simulation']",2527500
+Outer Wilds - Echoes of the Eye,False,2021,5462.0,,"['Action', 'Adventure']",1622100
+Restaurats,False,2025,1218.0,,"['Action', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",2870920
+ContractVille,False,2025,4756.0,,"['Casual', 'Indie', 'Simulation']",2698780
+Farming Simulator 22,False,2021,66417.0,,['Simulation'],1248130
+The Binding of Isaac: Afterbirth+,False,2017,6771.0,,"['Action', 'Adventure', 'Indie']",570660
+Company of Heroes 2,False,2013,67721.0,80.0,['Strategy'],231430
+Surviving Mars: Relaunched,False,2025,1610.0,,"['Simulation', 'Strategy']",3215050
+Middle-earth™: Shadow of War™,False,2017,84040.0,,"['Action', 'Adventure', 'RPG']",356190
+Halo Infinite,True,2021,33859.0,,"['Action', 'Free To Play']",1240440
+Lure Of Passion,False,2026,163.0,,"['Adventure', 'Casual', 'Indie', 'RPG']",3851570
+The Spell Brigade,False,2024,10917.0,,"['Action', 'Casual', 'Indie', 'Free To Play', 'Early Access']",2904000
+Warhammer: Vermintide 2,False,2018,89309.0,82.0,"['Action', 'Indie', 'RPG']",552500
+Tiny Glade,False,2024,20902.0,,"['Casual', 'Indie', 'Simulation']",2198150
+SurrounDead,False,2022,19131.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",1645820
+Dark and Darker,True,2024,,,"['Action', 'RPG', 'Free To Play', 'Early Access']",2016590
+OPERATOR,False,2023,3251.0,,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",1913370
+ROMANCE OF THE THREE KINGDOMS 8 REMAKE,False,2024,2784.0,,"['Simulation', 'Strategy']",2288150
+鬼谷八荒 Tale of Immortal,False,2023,191374.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",1468810
+Duck Detective: The Ghost of Glamping,False,2025,2070.0,,"['Adventure', 'Casual', 'Indie']",2714620
+Total War: WARHAMMER III - Dechala – Tides of Torment,False,2025,346.0,,"['Action', 'Strategy']",3450980
+Wreckfest 2,False,2025,4237.0,,"['Racing', 'Early Access']",1203190
+LOCKDOWN Protocol,False,2025,15100.0,,"['Action', 'Casual', 'Indie', 'Strategy']",2780980
+Assassin's Creed Valhalla,False,2022,35294.0,,"['Action', 'Adventure', 'RPG']",2208920
+Halo Infinite,True,2021,33859.0,,"['Action', 'Free To Play']",1240440
+Shino's Insatiable Pursuit of Knowledge,False,2026,,,"['Adventure', 'Casual', 'RPG']",3990310
+Total War: WARHAMMER III - Dechala – Tides of Torment,False,2025,346.0,,"['Action', 'Strategy']",3450980
+Motor Town: Behind The Wheel,False,2021,7364.0,,"['Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Early Access']",1369670
+Monsters are Coming! Rock & Road,False,2025,1739.0,79.0,"['Action', 'Indie', 'Strategy']",2934220
+Automobilista 2,False,2020,10591.0,,"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']",1066890
+"Rust - Warhammer 40,000 Pack",False,2025,654.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3891560
+Storage Hunter Simulator,False,2025,3258.0,,"['Casual', 'Indie', 'Simulation']",1442430
+StarVaders,False,2025,3307.0,85.0,"['Adventure', 'Indie', 'Strategy']",2097570
+RimWorld - Ideology,False,2021,3217.0,,"['Indie', 'Simulation', 'Strategy']",1392840
+News Tower,False,2025,3701.0,,"['Simulation', 'Strategy']",1649950
+Red Dead Redemption,False,2024,14759.0,,['Action'],2668510
+Titan Quest II,False,2025,14094.0,,"['Action', 'RPG', 'Early Access']",1154030
+LOCKDOWN Protocol,False,2025,15100.0,,"['Action', 'Casual', 'Indie', 'Strategy']",2780980
+Europa Universalis IV,False,2013,94283.0,87.0,"['Simulation', 'Strategy']",236850
+Throne and Liberty Winter Celebration Pack: Silver,False,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",4120030
+X-Plane 12,False,2022,5187.0,,['Simulation'],2014780
+Guild Wars 2: Heart of Thorns™ and Path of Fire™ Expansions,False,2022,289.0,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1996840
+Five Nights at Freddy's,False,2014,50993.0,78.0,"['Indie', 'Simulation']",319510
+Call of Duty®: Black Ops 7 or Call of Duty®: Warzone™ Points,False,2022,,,['Action'],2170970
+Aseprite,False,2016,19287.0,,"['Animation & Modeling', 'Design & Illustration', 'Game Development']",431730
+Plants vs. Zombies™: Replanted,False,2025,5092.0,,['Strategy'],3654560
+"Warhammer 40,000: Space Marine - Anniversary Edition",False,2011,17326.0,74.0,['Action'],55150
+Untitled Goose Game,False,2020,21303.0,79.0,"['Action', 'Indie']",837470
+Call of Duty®: Modern Warfare®,False,2023,22825.0,,['Action'],2000950
+Crush Crush,True,2016,562.0,,"['Casual', 'Indie', 'Free To Play']",459820
+Tower of Fantasy,True,2022,,,"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",2064650
+Timberborn,False,2021,32909.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",1062090
+This Bed We Made,False,2023,2616.0,,"['Adventure', 'Indie']",1243850
+Revolution Idle,True,2025,,,"['Casual', 'Indie', 'Simulation', 'Free To Play']",2763740
+Crosshair X,False,2020,36096.0,,"['Action', 'Adventure', 'Indie', 'Animation & Modeling', 'Design & Illustration', 'Education', 'Photo Editing', 'Utilities', 'Game Development']",1366800
+Marvel’s Spider-Man Remastered,False,2022,88465.0,,"['Action', 'Adventure', 'Casual']",1817070
+Hero's Land,True,2023,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2349820
+Slime Rancher 2,False,2025,39759.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",1657630
+MARVEL SNAP,True,2023,,,"['Casual', 'Strategy', 'Free To Play']",1997040
+Happy Island Fantasy,False,2025,700.0,,"['Adventure', 'RPG']",3668560
+Darkest Dungeon®,False,2016,135199.0,84.0,"['Indie', 'RPG', 'Strategy']",262060
+Romantic Escapades,False,2025,4533.0,,['RPG'],2897760
+MARVEL vs. CAPCOM Fighting Collection: Arcade Classics,False,2024,1838.0,86.0,['Action'],2634890
+WUCHANG: Fallen Feathers,False,2025,41810.0,77.0,"['Action', 'Adventure', 'RPG']",2277560
+Substance 3D Painter 2025,False,2025,195.0,,"['Animation & Modeling', 'Design & Illustration', 'Game Development']",3366290
+My sexy Neighbour 2,False,2025,539.0,,"['Casual', 'Indie', 'Simulation']",3684710
+DEVOUR,False,2021,67112.0,,['Indie'],1274570
+Mandate Of Heaven,False,2025,4307.0,,"['RPG', 'Simulation', 'Strategy']",3831120
+Train Simulator Classic,False,2015,18973.0,,['Simulation'],24010
+Phantom Brigade,False,2023,3846.0,,"['Indie', 'Simulation', 'Strategy']",553540
+Is This Seat Taken?,False,2025,5966.0,79.0,"['Casual', 'Indie']",3035120
+Elite Dangerous,False,2015,79589.0,80.0,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",359320
+Rivals of Aether II,False,2024,5957.0,,"['Action', 'Indie']",2217000
+DiRT Rally 2.0,False,2019,37398.0,84.0,"['Racing', 'Simulation', 'Sports']",690790
+Stoneshard,False,2020,31381.0,,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",625960
+Dungeon Antiqua 2,False,2026,101.0,,['RPG'],4005090
+GIRLS' FRONTLINE 2: EXILIUM,True,2025,,,"['Action', 'Adventure', 'RPG', 'Strategy', 'Free To Play']",3347400
+Police Simulator: Patrol Officers,False,2022,17476.0,,['Simulation'],997010
+MONSTER HUNTER RISE,False,2022,74989.0,86.0,['Action'],1446780
+Easy Red 2,False,2022,11073.0,,"['Action', 'Indie', 'Simulation', 'Strategy']",1324780
+Icarus: Styx Expansion,False,2022,159.0,,"['Action', 'Adventure', 'Simulation']",1995690
+Frostrain 2,False,2026,,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",3690490
+Pixel Gun 3D: PC Edition,True,2024,,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",2524890
+Animal Shelter,False,2022,3357.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1239320
+Barony,False,2015,9085.0,,"['Action', 'Adventure', 'Indie', 'RPG']",371970
+CarX Drift Racing Online,False,2017,80634.0,,"['Massively Multiplayer', 'Racing', 'Simulation', 'Sports']",635260
+NBA 2K26 Pro Pass: Season 4,False,2026,,,['Sports'],3657750
+BONELAB,False,2022,16576.0,,"['Action', 'Adventure', 'Simulation']",1592190
+Duck Detective: The Secret Salami,False,2024,5551.0,,"['Adventure', 'Casual', 'Indie']",2637990
+Strange Antiquities,False,2025,2261.0,81.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",2885870
+Agreeee,False,2025,215.0,,"['Action', 'Indie']",3757210
+Firestone – Idle Clicker Online RPG,True,2024,,,"['Casual', 'Indie', 'RPG', 'Free To Play']",1013320
+Astral Party ,True,2024,,,"['Casual', 'Indie', 'RPG', 'Strategy']",2622000
+Horizon Forbidden West™ Complete Edition,False,2024,17905.0,,"['Action', 'RPG']",2420110
+GreedFall,False,2019,17611.0,72.0,['RPG'],606880
+觅长生,False,2023,25851.0,,"['Indie', 'RPG', 'Strategy']",1189490
+Little Nightmares III,False,2025,8719.0,,['Adventure'],1392860
+IL-2 Sturmovik: Battle of Stalingrad,False,2014,8292.0,74.0,"['Action', 'Simulation']",307960
+The Long Dark,False,2017,104358.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",305620
+Human Fall Flat,False,2016,170141.0,70.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",477160
+Resident Evil 7 Biohazard,False,2017,74880.0,83.0,"['Action', 'Adventure']",418370
+Master of Command,False,2025,2667.0,,['Strategy'],2878450
+FragPunk,True,2025,1627.0,,"['Action', 'Free To Play']",2943650
+Taiko no Tatsujin: Rhythm Festival,False,2024,1034.0,,['Casual'],2288630
+Wicked Island,False,2025,678.0,,"['RPG', 'Early Access']",1943730
+Age of Empires II: DE - The Three Kingdoms ,False,2025,922.0,,['Strategy'],3080080
+Winter Memories,False,2024,9815.0,,"['Adventure', 'Casual', 'RPG', 'Simulation']",2495450
+Dead Cells,False,2018,150319.0,89.0,"['Action', 'Adventure', 'Indie']",588650
+Call of Duty®: Modern Warfare® 2 (2009),False,2009,34429.0,86.0,['Action'],10180
+Euro Truck Simulator 2 - Going East!,False,2013,3028.0,,"['Indie', 'Simulation']",227310
+Minecraft Dungeons,False,2021,14167.0,,"['Action', 'Adventure', 'RPG']",1672970
+Leaf it Alone,False,2025,2227.0,,"['Casual', 'Indie', 'Simulation']",3981100
+gogh: Focus with Your Avatar,False,2025,3778.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Sports', 'Free To Play']",3213850
+Castle Crashers®,False,2012,104378.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",204360
+RimWorld - Anomaly,False,2024,2768.0,,"['Indie', 'Simulation', 'Strategy']",2380740
+Company of Heroes 3: Endure & Defy,False,2025,205.0,,"['Action', 'Strategy']",4095900
+Fahrenheit: Indigo Prophecy Remastered,False,2015,5770.0,,"['Adventure', 'RPG']",312840
+Dragon's Dogma: Dark Arisen,False,2016,36478.0,81.0,"['Action', 'Adventure', 'RPG']",367500
+Age of Empires III: Definitive Edition,True,2020,35885.0,75.0,"['Strategy', 'Free To Play']",933110
+Broken Arrow,False,2025,23989.0,,['Strategy'],1604270
+Dead by Daylight - Stranger Things Chapter,False,2019,3237.0,,['Action'],1135280
+Travellers Rest,False,2020,14517.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Early Access']",1139980
+Dinocop,False,2025,454.0,,"['Adventure', 'Casual', 'Indie']",3187010
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,False,2024,7748.0,,"['Action', 'Adventure', 'RPG']",2552430
+Broken Arrow,False,2025,23989.0,,['Strategy'],1604270
+Travellers Rest,False,2020,14517.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Early Access']",1139980
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,False,2024,7748.0,,"['Action', 'Adventure', 'RPG']",2552430
+KUUKIYOMI: Consider It World - Thailand Ver.,False,2026,,,"['Casual', 'Indie', 'Simulation']",3606690
+Age of Empires III: Definitive Edition,True,2020,35885.0,75.0,"['Strategy', 'Free To Play']",933110
+Mad Island,False,2024,3999.0,,"['Action', 'Indie', 'RPG', 'Simulation', 'Early Access']",2739590
+Fishing Planet: Valkyrie Saga Pack,False,2025,,,"['Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play']",4218170
+Muse Dash,False,2019,113717.0,,"['Action', 'Casual', 'Indie']",774171
+ARMORED CORE™ VI FIRES OF RUBICON™,False,2023,63867.0,86.0,['Action'],1888160
+Space Engineers 2,False,2025,3355.0,,"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",1133870
+Total War: ROME II - Emperor Edition,False,2013,56197.0,76.0,['Strategy'],214950
+Against the Storm - Nightwatchers,False,2025,179.0,,"['Simulation', 'Strategy']",3725110
+Fireworks Mania - An Explosive Simulator,False,2020,7026.0,,"['Action', 'Casual', 'Indie', 'Simulation']",1079260
+Gears of War: Reloaded,False,2025,2712.0,,['Action'],2523720
+Agatha Christie - Death on the Nile,False,2025,122.0,,['Adventure'],3150480
+The Henry Stickmin Collection,False,2020,51334.0,,"['Adventure', 'Casual', 'Indie']",1089980
+ENTITY: THE BLACK DAY,False,2026,131.0,,"['Action', 'Adventure']",2517220
+Stormworks: Build and Rescue,False,2020,51290.0,,['Simulation'],573090
+Age of Empires II: DE - Chronicles: Alexander the Great,False,2025,523.0,,['Strategy'],3793540
+SpaceEngine,False,2019,13502.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",314650
+Yakuza 0 Director's Cut,False,2025,689.0,,"['Action', 'Adventure', 'RPG']",2988580
+Shadow Gambit: The Cursed Crew,False,2023,4709.0,85.0,"['RPG', 'Strategy']",1545560
+Infection Free Zone,False,2024,14691.0,,"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",1465460
+Far Cry® New Dawn,False,2019,30800.0,,"['Action', 'Adventure']",939960
+Carnal Instinct,False,2021,4838.0,,"['RPG', 'Early Access']",1495320
+Copycat,False,2024,3366.0,,"['Adventure', 'Indie']",1622350
+The Jackbox Party Pack 11,False,2025,326.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",3364070
+Sex Shop Simulator: X-RAY DESIRE,False,2025,140.0,,"['Casual', 'Indie', 'Simulation']",4148670
+Nom Nom: Cozy Forest Café,False,2026,,,"['Casual', 'Indie', 'Simulation']",2428800
+A Little to the Left,False,2022,14730.0,75.0,"['Casual', 'Indie']",1629520
+Gems of War - Puzzle RPG,True,2014,,,"['Action', 'Adventure', 'Casual', 'RPG', 'Strategy', 'Free To Play']",329110
+Subverse,False,2024,18713.0,,"['Action', 'Adventure', 'Casual', 'RPG', 'Strategy']",1034140
+March of Empires,True,2017,,,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",702320
+Tiny Bookshop,False,2025,5075.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",2133760
+FINAL FANTASY VII REMAKE INTERGRADE,False,2022,35830.0,,"['Action', 'Adventure', 'RPG']",1462040
+For The King II,False,2023,11718.0,76.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",1676840
+Five Nights at Freddy's 4,False,2015,14596.0,51.0,"['Action', 'Indie', 'Strategy']",388090
+SWORN,False,2025,3045.0,,"['Action', 'Indie', 'RPG']",1763250
+Stellaris: BioGenesis,False,2025,925.0,,"['Simulation', 'Strategy']",3417840
+GONE Fishing,False,2025,1467.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",3645890
+Cities: Skylines II - Bridges & Ports,False,2025,414.0,,['Simulation'],2427743
+Aliens: Fireteam Elite,False,2021,20825.0,,"['Action', 'RPG']",1549970
+Passion Industry,True,2025,,,"['Casual', 'Simulation', 'Free To Play']",3738950
+Total War: THREE KINGDOMS,False,2019,71061.0,85.0,"['Action', 'Strategy']",779340
+Street Fighter™ 6 - Year 3 Character Pass,False,2025,,,"['Action', 'Adventure']",3410460
+Risk of Rain 2: Survivors of the Void,False,2022,5341.0,,"['Action', 'Indie']",1607890
+Loco Motive,False,2024,944.0,,"['Adventure', 'Indie']",1709880
+DRAGON BALL: Sparking! ZERO,False,2024,47322.0,83.0,['Action'],1790600
+Shelldiver,False,2025,8598.0,,"['Action', 'Adventure']",3862670
+Wandering Sword,False,2023,32807.0,80.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",1876890
+Wandering Sword,False,2023,32807.0,80.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",1876890
+Clone Drone in the Danger Zone,False,2021,33010.0,82.0,"['Action', 'Indie']",597170
+ARK: Genesis Season Pass,False,2019,5317.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",1113410
+Dinkum,False,2025,23748.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1062520
+A Dance of Fire and Ice,False,2019,73326.0,,['Indie'],977950
+Crusader Kings II,True,2012,30850.0,82.0,"['RPG', 'Simulation', 'Strategy', 'Free To Play']",203770
+Sephiria,False,2025,4247.0,,"['Action', 'Early Access']",2436940
+Crossout,True,2017,882.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'Racing', 'Free To Play']",386180
+Call of Duty®: Black Ops,False,2010,21241.0,81.0,['Action'],42700
+Assassin's Creed® Odyssey,False,2018,164047.0,,"['Action', 'Adventure', 'RPG']",812140
+Reverse: 1999,True,2024,,,"['RPG', 'Free To Play']",3092660
+Dragonheir: Silent Gods,True,2023,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2203070
+FAIRY TAIL: DUNGEONS,False,2024,615.0,79.0,"['Adventure', 'Indie', 'RPG']",2305500
+Risk of Rain 2: Survivors of the Void,False,2022,5341.0,,"['Action', 'Indie']",1607890
+Crusader Kings III: All Under Heaven,False,2025,1821.0,,"['RPG', 'Simulation', 'Strategy']",3315530
+EARTH DEFENSE FORCE 6,False,2024,5898.0,79.0,['Action'],2291060
+Tokyo Xtreme Racer,False,2025,14155.0,,"['Racing', 'RPG']",2634950
+Stellaris: Shadows of the Shroud,False,2025,309.0,,"['Simulation', 'Strategy']",3417850
+Ravenswatch,False,2024,14475.0,84.0,"['Action', 'Adventure']",2071280
+Library Of Ruina,False,2021,35365.0,,"['Indie', 'RPG', 'Strategy']",1256670
+American Truck Simulator - Texas,False,2022,679.0,,"['Indie', 'Simulation']",1465750
+UNLIGHT:Revive,True,2024,,,"['RPG', 'Free To Play']",3247080
+Expeditions: A MudRunner Game,False,2024,2730.0,,"['Adventure', 'Racing', 'Simulation']",2477340
+Darkest Dungeon® II,False,2023,22069.0,81.0,"['Indie', 'RPG', 'Strategy']",1940340
+Have a Nice Death,False,2023,9432.0,81.0,"['Action', 'Indie']",1740720
+The Planet Crafter - Planet Humble,False,2024,852.0,,['Adventure'],3142540
+Crashlands 2,False,2025,2000.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1401730
+Cities: Skylines II - Bridges & Ports,False,2025,414.0,,['Simulation'],2427743
+Granado Espada,True,2017,,,"['Massively Multiplayer', 'RPG', 'Free To Play']",663090
+Xenonauts 2,False,2023,2906.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",538030
+Sniper Elite: Resistance,False,2025,3843.0,70.0,"['Action', 'Adventure']",2169200
+CYAN BRAIN,False,2025,572.0,,['Action'],3975510
+Muse Dash - Muse Plus,False,2023,643.0,,"['Action', 'Casual', 'Indie']",2593750
+Tom Clancy's Ghost Recon® Wildlands,False,2017,87089.0,,"['Action', 'Adventure']",460930
+Mortal Sin,False,2025,5306.0,,"['Action', 'Indie', 'RPG']",1494810
+Summer Clover,False,2024,7956.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",2458860
+We Were Here Together,False,2019,13854.0,77.0,"['Adventure', 'Casual', 'Indie']",865360
+The Testament of Sherlock Holmes,False,2012,3026.0,73.0,['Adventure'],205650
+RimWorld - Royalty,False,2020,2379.0,,"['Indie', 'Simulation', 'Strategy']",1149640
+Derail Valley,False,2019,8225.0,,"['Adventure', 'Indie', 'Simulation', 'Early Access']",588030
+Fickle Card Legend,False,2026,362.0,,"['Adventure', 'Casual', 'Indie', 'RPG']",4087980
+METAL GEAR SOLID V: THE PHANTOM PAIN,False,2015,70643.0,91.0,"['Action', 'Adventure']",287700
+Vegas Infinite by PokerStars,True,2023,,,"['Casual', 'Strategy', 'Free To Play']",886250
+"Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack",False,2025,159.0,,"['Action', 'Adventure', 'RPG']",3871330
+Grimshire,False,2025,1642.0,,"['Indie', 'RPG', 'Simulation', 'Early Access']",2238470
+Colony Ship: A Post-Earth Role Playing Game,False,2023,3578.0,,['RPG'],648410
+Wanderstop,False,2025,2456.0,,"['Adventure', 'Indie', 'Simulation']",1299460
+SULFUR,False,2024,6439.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Early Access']",2124120
+Foxhole,False,2022,42279.0,,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",505460
+Thief VR: Legacy of Shadow,False,2025,218.0,,['Adventure'],2800080
+Across the Obelisk,False,2022,10327.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",1385380
+A Plague Tale: Innocence,False,2019,57055.0,81.0,"['Action', 'Adventure']",752590
+Winter Burrow,False,2025,1949.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",3008740
+Undertale,False,2015,279068.0,92.0,"['Indie', 'RPG']",391540
+FINAL FANTASY VII REBIRTH,False,2025,19301.0,,"['Action', 'Adventure', 'RPG']",2909400
+Plants vs. Zombies GOTY Edition,False,2009,136474.0,87.0,['Strategy'],3590
+Just Shapes & Beats,False,2018,22491.0,,"['Action', 'Indie']",531510
+Workers & Resources: Soviet Republic - Early Start,False,2025,351.0,,"['Simulation', 'Strategy']",3334790
+Five Hearts Under One Roof season2,False,2025,1506.0,,"['Adventure', 'RPG', 'Simulation']",3731020
+Desert Stalker,False,2024,2119.0,,"['Adventure', 'Indie', 'Early Access']",2899050
+JR EAST Train Simulator,False,2022,1080.0,,['Simulation'],2111630
+Cities: Skylines II - Creator Pack: Supply Chains,False,2025,,,['Simulation'],3579760
+Walk of Life,False,2025,212.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",1910150
+DARK SOULS™ II: Scholar of the First Sin,False,2015,78778.0,79.0,"['Action', 'RPG']",335300
+Grand Theft Auto: San Andreas – The Definitive Edition,False,2023,11324.0,,"['Action', 'Adventure']",1547000
+Dying Light 2 Stay Human: Reloaded Edition,False,2022,156555.0,,"['Action', 'Adventure', 'RPG']",534380
+Galactic Glitch,False,2025,655.0,,"['Action', 'Adventure', 'Simulation']",1536620
+Pax Dei,False,2025,6266.0,,"['Massively Multiplayer', 'RPG']",1995520
+"Warhammer 40,000: Dawn of War III",False,2017,13863.0,77.0,"['Action', 'Simulation', 'Strategy']",285190
+Idol Forging,False,2026,,,"['Casual', 'Simulation']",3990990
+Tom Clancy’s The Division 2 – Fang Pack,False,2025,,,"['Action', 'Adventure', 'RPG']",4064210
+Look Outside,False,2025,9281.0,,"['Adventure', 'RPG']",3373660
+Lobotomy Corporation | Monster Management Simulation,False,2018,46318.0,,"['Indie', 'Simulation']",568220
+Stacklands,False,2022,27523.0,,"['Casual', 'Indie', 'Simulation']",1948280
+Mon Bazou,False,2025,18115.0,,"['Adventure', 'Casual', 'Indie', 'Racing', 'Simulation']",1520370
+Fallout Tactics: Brotherhood of Steel,False,2009,2202.0,82.0,['Strategy'],38420
+Counter-Strike,False,2000,165404.0,88.0,['Action'],10
+Sherlock Holmes: Crimes and Punishments,False,2014,6674.0,77.0,['Adventure'],241260
+Euro Truck Simulator 2 - Farm Machinery,False,2025,134.0,,"['Indie', 'Simulation']",1456860
+What Remains of Edith Finch,False,2017,43528.0,89.0,"['Adventure', 'Indie']",501300
+Deep Rock Galactic: Survivor,False,2025,43588.0,,['Action'],2321470
+OMORI,False,2020,76358.0,87.0,"['Adventure', 'Indie', 'RPG']",1150690
+Decktamer,False,2025,1398.0,,['Strategy'],2870340
+Forza Motorsport,False,2023,11131.0,,['Racing'],2440510
+Shakes and Fidget,True,2016,184.0,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",438040
+Farming Simulator 25: Highlands Fishing Expansion,False,2025,286.0,,['Simulation'],3453970
+Of Ash and Steel,False,2025,4496.0,,"['Action', 'Adventure', 'Indie', 'RPG']",2893820
+American Truck Simulator - Iowa,False,2025,231.0,,"['Indie', 'Simulation']",3025440
+Outhold,False,2025,705.0,,"['Casual', 'Simulation', 'Strategy']",3767740
+The First Berserker: Khazan,False,2025,18673.0,,"['Action', 'Adventure', 'RPG']",2680010
+Frostpunk 2,False,2024,18914.0,85.0,"['Simulation', 'Strategy']",1601580
+Gears Tactics,False,2020,7056.0,80.0,['Strategy'],1184050
+Sea Power : Naval Combat in the Missile Age,False,2024,4495.0,,"['Action', 'Simulation', 'Strategy', 'Early Access']",1286220
+Baldur's Gate 3 - Digital Deluxe Edition DLC,False,2023,4340.0,,"['Adventure', 'RPG', 'Strategy']",2378500
+Total War: ATTILA,False,2015,26004.0,80.0,['Strategy'],325610
+METAL GEAR SOLID Δ: SNAKE EATER,False,2025,9952.0,,"['Action', 'Adventure']",2417610
+Cursed Companions,False,2025,143.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",3265230
+Fields of Mistria,False,2024,23106.0,,"['Indie', 'RPG', 'Simulation', 'Early Access']",2142790
+Mortal Kombat 1,False,2023,29226.0,82.0,['Action'],1971870
+Outhold,False,2025,705.0,,"['Casual', 'Simulation', 'Strategy']",3767740
+OMORI,False,2020,76358.0,87.0,"['Adventure', 'Indie', 'RPG']",1150690
+Tempest Rising,False,2025,8877.0,80.0,"['Action', 'Strategy']",1486920
+PICO PARK 2,False,2024,3657.0,,"['Action', 'Casual']",2644470
+Persona 4 Golden,False,2020,68236.0,87.0,['RPG'],1113000
+Vegas Casino & Slots: Slottist,True,2025,,,"['Casual', 'Massively Multiplayer', 'Simulation', 'Sports', 'Strategy', 'Free To Play']",3673150
+Rain World,False,2017,39289.0,66.0,"['Action', 'Adventure', 'Indie']",312520
+Sherlock Holmes: The Devil's Daughter,False,2016,11696.0,65.0,"['Action', 'Adventure']",350640
+"Papers, Please",False,2013,70688.0,85.0,"['Adventure', 'Indie']",239030
+NosTale - Anime MMORPG,True,2017,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",550470
+STAR WARS™ Battlefront™ II,False,2020,79420.0,,"['Action', 'Adventure']",1237950
+Last Epoch,False,2024,104772.0,80.0,"['Action', 'Adventure', 'Indie', 'RPG']",899770
+NASCAR 25,False,2025,1161.0,,"['Racing', 'Simulation', 'Sports']",3873970
+VTOL VR,False,2017,18907.0,,"['Action', 'Indie', 'Simulation']",667970
+MU: Dark Epoch,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",3953520
+NINJA GAIDEN 4,False,2025,6537.0,,"['Action', 'Adventure']",2627260
+Decktamer,False,2025,1398.0,,['Strategy'],2870340
+Ultimate Chicken Horse,False,2016,39173.0,,"['Action', 'Casual', 'Indie']",386940
+Angel Legion,True,2020,,,"['Adventure', 'RPG', 'Strategy', 'Free To Play']",1333350
+Trackmania,True,2023,,,['Racing'],2225070
+Mortal Kombat 1,False,2023,29226.0,82.0,['Action'],1971870
+Into the Dead: Our Darkest Days,False,2025,6749.0,,"['Action', 'Simulation', 'Strategy', 'Early Access']",2239710
+Enlisted,True,2024,252.0,,"['Action', 'Massively Multiplayer', 'Free To Play']",2051620
+My Wife Threw Out My Card Collection (So I Bought a Dump to Find Them All) ⭐,False,2025,903.0,,"['Action', 'Casual', 'Simulation']",3868310
+Play Together,True,2025,,,"['Casual', 'Free To Play']",3198850
+Persona 3 Reload,False,2024,34804.0,89.0,"['Adventure', 'RPG', 'Strategy']",2161700
+Date Everything!,False,2025,5566.0,,['Simulation'],2201320
+Realm of the Mad God Exalt,True,2012,194.0,82.0,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",200210
+Indiana Jones and the Great Circle,False,2024,11385.0,87.0,"['Action', 'Adventure']",2677660
+Agatha Christie - Murder on the Orient Express,False,2023,898.0,,"['Action', 'Adventure', 'Simulation']",1904790
+Days Gone,False,2021,77823.0,,"['Action', 'Adventure']",1259420
+theHunter: Call of the Wild™ - Scotland Hunting Reserve,False,2025,108.0,,"['Adventure', 'Simulation', 'Sports']",4010590
+Dying Light,False,2015,362462.0,87.0,"['Action', 'RPG']",239140
+SONIC X SHADOW GENERATIONS,False,2024,10796.0,,['Action'],2513280
+Car Dealership Simulator 2,False,2025,1446.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",3616550
+Coral Island,False,2023,19890.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",1158160
+Goat Simulator 3,False,2024,12065.0,,"['Adventure', 'Casual', 'Simulation']",850190
+Cataclismo,False,2025,3588.0,82.0,"['Simulation', 'Strategy']",1422440
+UNO,False,2017,41418.0,,['Casual'],470220
+Fear & Hunger,False,2019,18446.0,,"['Adventure', 'Indie', 'RPG']",1002300
+Kerbal Space Program,False,2015,107314.0,88.0,"['Indie', 'Simulation']",220200
+Mage Arena,False,2025,16989.0,,"['Action', 'Early Access']",3716600
+OMSI 2: Steam Edition,False,2013,7984.0,,"['Casual', 'Simulation']",252530
+Six Days in Fallujah,False,2023,12413.0,,"['Action', 'Early Access']",1548850
+Your Mom,False,2025,1182.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",4147820
+Dyson Sphere Program,False,2021,80847.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",1366540
+UNDERDOGS,False,2024,2486.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",2441700
+The Censor DX Edition,False,2025,938.0,,"['Casual', 'Indie', 'Simulation']",2755480
+NEEDY STREAMER OVERLOAD,False,2022,48270.0,,"['Adventure', 'Indie']",1451940
+Vampyr,False,2018,18047.0,72.0,"['Action', 'RPG']",427290
+Your Mom,False,2025,1182.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",4147820
+Fear & Hunger,False,2019,18446.0,,"['Adventure', 'Indie', 'RPG']",1002300
+The Censor DX Edition,False,2025,938.0,,"['Casual', 'Indie', 'Simulation']",2755480
+Vampyr,False,2018,18047.0,72.0,"['Action', 'RPG']",427290
+South Park™: The Stick of Truth™,False,2014,58533.0,,"['Action', 'Adventure', 'RPG']",213670
+Company of Heroes 3: Fire & Steel,False,2025,603.0,,"['Action', 'Strategy']",3469800
+SONIC X SHADOW GENERATIONS,False,2024,10796.0,,['Action'],2513280
+Parallel Experiment,False,2025,437.0,,"['Adventure', 'Indie']",2012320
+RaceRoom Racing Experience,True,2013,1969.0,,"['Racing', 'Simulation', 'Sports', 'Free To Play']",211500
+Dark and Darker - Legendary Status,False,2024,262.0,,"['Action', 'RPG', 'Free To Play']",3211120
+NEEDY STREAMER OVERLOAD,False,2022,48272.0,,"['Adventure', 'Indie']",1451940
+People Playground,False,2019,281655.0,,"['Action', 'Casual', 'Indie', 'Simulation']",1118200
+The Riftbreaker,False,2021,19555.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",780310
+VTube Studio,True,2021,102.0,,"['Indie', 'Animation & Modeling', 'Video Production']",1325860
+House Flipper,False,2018,89651.0,67.0,"['Indie', 'Simulation']",613100
+RealFlight Evolution,False,2022,773.0,,"['Indie', 'Racing', 'Simulation']",2069310
+Onimusha 2: Samurai's Destiny,False,2025,459.0,,['Action'],3046600
+Royal Quest Online,True,2024,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2962300
+Cricket 26 - The Official Game of the Ashes,False,2025,364.0,,['Sports'],3468650
+High On Life: High On Knife,False,2023,429.0,,"['Action', 'Adventure']",2447000
+Way of the Hunter,False,2022,7257.0,,"['Adventure', 'Simulation', 'Sports']",1288320
+PAYDAY 3,False,2023,46903.0,66.0,"['Action', 'Adventure', 'RPG']",1272080
+Street Fighter V,False,2016,27613.0,89.0,['Action'],310950
+Anomalous Coffee Machine 2,False,2025,307.0,,['Indie'],3797340
+skate.,True,2025,253.0,,"['Action', 'Sports', 'Free To Play', 'Early Access']",3354750
+We Who Are About To Die,False,2022,7815.0,,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",973230
+Being a DIK - Season 1,False,2020,11204.0,,['Indie'],1126320
+Against the Storm - Keepers of the Stone,False,2024,384.0,,"['Simulation', 'Strategy']",3075500
+Baba Is You,False,2019,19790.0,87.0,['Indie'],736260
+007 First Light,False,2026,,,"['Action', 'Adventure']",3768760
+Poppy Playtime - Chapter 4,False,2025,8899.0,,"['Action', 'Adventure', 'Indie']",3008670
+Summer Memories+ - Expansion DLC,False,2021,963.0,,"['Adventure', 'RPG']",1390150
+Big Ambitions,False,2023,11395.0,,"['Indie', 'Simulation', 'Early Access']",1331550
+Construction Simulator,False,2022,9291.0,,"['Casual', 'Simulation']",1273400
+Valve Index® Base Station,False,2019,,,[],1059570
+Slut Squad,True,2025,,,"['Casual', 'RPG', 'Strategy', 'Free To Play']",3554940
+Tribal Wars,True,2020,,,"['Action', 'Free To Play', 'Massively Multiplayer', 'Strategy']",675690
+REMNANT II®,False,2023,43440.0,,"['Action', 'Adventure', 'RPG']",1282100
+Call of Duty®: Modern Warfare® 3 (2011),False,2011,14764.0,,['Action'],115300
+Golden Idol Mysteries: The Lemurian Vampire,False,2023,295.0,,"['Adventure', 'Indie']",2377001
+Guilty as Sock!,False,2025,3781.0,,"['Casual', 'Simulation']",3400930
+Sky: Children of the Light,True,2024,,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",2325290
+Battle Brothers - Blazing Deserts,False,2020,293.0,,"['Indie', 'RPG', 'Strategy']",1361280
+Lords of the Fallen,False,2023,32449.0,75.0,"['Action', 'Adventure', 'RPG']",1501750
+DmC: Devil May Cry,False,2013,19419.0,85.0,"['Action', 'Adventure']",220440
+Fellowship,False,2025,13643.0,,"['RPG', 'Early Access']",2352620
+EVE Online,True,2010,7718.0,88.0,"['Action', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",8500
+American Truck Simulator - Arkansas,False,2024,272.0,,"['Indie', 'Simulation']",2585150
+Whisper of the House,False,2025,3597.0,,"['Casual', 'Indie', 'Simulation']",2589500
+My Time at Sandrock,False,2023,23237.0,80.0,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1084600
+ROMANCE OF THE THREE KINGDOMS 8 REMAKE: Destiny and Strategy Expansion Pack,False,2026,,,"['Simulation', 'Strategy']",3652820
+Gang Beasts,False,2017,50583.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",285900
+Guilty as Sock!,False,2025,3781.0,,"['Casual', 'Simulation']",3400930
+Inscryption,False,2021,128222.0,85.0,"['Adventure', 'Indie', 'Strategy']",1092790
+American Truck Simulator - Missouri,False,2025,252.0,,"['Indie', 'Simulation']",2730870
+Parallel Experiment,False,2025,437.0,,"['Adventure', 'Indie']",2012320
+Rebel Inc: Escalation,False,2021,6250.0,,"['Simulation', 'Strategy']",1088790
+Lost Castle 2,False,2024,8177.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2445690
+Resident Evil 4 - Separate Ways,False,2023,6817.0,,"['Action', 'Adventure']",2109300
+"Detective Instinct: Farewell, My Beloved",False,2025,313.0,,['Adventure'],2689930
+Mini Motorways,False,2021,22335.0,87.0,"['Casual', 'Simulation', 'Strategy']",1127500
+Fellowship,False,2025,13643.0,,"['RPG', 'Early Access']",2352620
+Sniper Elite 5,False,2022,22019.0,79.0,"['Action', 'Adventure']",1029690
+WolfQuest: Anniversary Edition,False,2025,10284.0,,"['Action', 'RPG', 'Simulation']",926990
+Universe Sandbox,False,2015,25672.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",230290
+Menace from the Deep,False,2024,2014.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",2644610
+Call of Duty®: WWII,False,2017,31841.0,,['Action'],476600
+Forest Hustle,False,2026,,,"['Adventure', 'Casual', 'Indie']",4168290
+Tunguska: The Visitation - Final Cut,False,2021,1489.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1601970
+FIVE NIGHTS AT FREDDY'S: HELP WANTED,False,2019,11956.0,,"['Action', 'Casual']",732690
+Solasta: Crown of the Magister,False,2021,18680.0,,"['Adventure', 'RPG', 'Strategy']",1096530
+Sword of Convallaria,True,2024,,,"['RPG', 'Strategy', 'Free To Play']",2526380
+Flotsam,False,2025,3625.0,,"['Indie', 'Simulation', 'Strategy']",821250
+Magicraft,False,2024,13825.0,,"['Action', 'Adventure', 'Indie', 'RPG']",2103140
+BULT: Hunting simulator,False,2026,191.0,,"['Adventure', 'Simulation', 'Sports', 'Early Access']",3929200
+"Warhammer 40,000: Darktide - Arbites Class",False,2025,1123.0,,"['Action', 'Adventure', 'Indie']",3710910
+NTRaholic,False,2025,275.0,,"['Casual', 'Simulation', 'Strategy']",3412290
+NOBUNAGA'S AMBITION: Awakening,False,2022,2182.0,,['Simulation'],1336980
+Clanfolk,False,2022,3319.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",1700870
+PlateUp!,False,2022,17120.0,,"['Action', 'Casual', 'Indie', 'Strategy']",1599600
+Steps of Debauchery,False,2024,2183.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",2649970
+Overcooked! All You Can Eat,False,2021,4975.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",1243830
+Brawlhalla - All Legends (Current and Future),False,2015,382.0,,"['Action', 'Indie', 'Free To Play']",387020
+Keep Driving,False,2025,5046.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",2756920
+Call of Duty®: Black Ops 6,False,2024,13134.0,,['Action'],2933620
+The Headliners,False,2025,7175.0,,"['Action', 'Indie']",3059070
+Dead Frontier 2,True,2019,,,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play']",744900
+Ready or Not: Dark Waters,False,2024,1317.0,,"['Action', 'Adventure', 'Indie']",3174120
+Goblin Cleanup,False,2025,1244.0,,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']",2748340
+Thank Goodness You're Here!,False,2024,6763.0,89.0,"['Adventure', 'Casual', 'Indie']",2366980
+Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2,False,2025,2370.0,,"['Action', 'Adventure']",2928600
+Nine Sols,False,2024,32994.0,,"['Action', 'Adventure', 'Indie']",1809540
+Jurassic World Evolution 3: Wetlands ,False,2025,,,"['Simulation', 'Strategy']",4131660
+Undawn,True,2023,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",1881700
+ROUNDS,False,2021,32548.0,,"['Action', 'Indie']",1557740
+Sid Meier's Civilization® V,False,2010,126140.0,90.0,['Strategy'],8930
+Kingdom Come: Deliverance II Legacy of the Forge,False,2025,1381.0,,"['Action', 'Adventure', 'RPG']",3368610
+FreshWomen - Season 1,False,2022,17048.0,,"['Adventure', 'Indie']",1350650
+Keep Talking and Nobody Explodes,False,2015,13776.0,71.0,['Indie'],341800
+Tom Clancy’s The Division 2 – Fang Pack,False,2025,,,"['Action', 'Adventure', 'RPG']",4064210
+Age of Empires IV: Knights of Cross and Rose ,False,2025,1307.0,,['Strategy'],3144890
+Thank Goodness You're Here!,False,2024,6763.0,89.0,"['Adventure', 'Casual', 'Indie']",2366980
+Mecha BREAK,True,2025,,,"['Action', 'Massively Multiplayer', 'Free To Play']",2452280
+Call of Duty®: Black Ops II,False,2012,22298.0,74.0,['Action'],202970
+Expansion - Hearts of Iron IV: Götterdämmerung,False,2024,1685.0,,"['Simulation', 'Strategy']",3152780
+The King is Watching,False,2025,6977.0,,"['Indie', 'Strategy']",2753900
+Fear & Hunger 2: Termina,False,2022,12367.0,,"['Indie', 'RPG']",2171440
+Call of Duty®: Black Ops Cold War,False,2023,20040.0,,['Action'],1985810
+BLACK SOULS II,False,2025,2436.0,,"['Adventure', 'Indie', 'RPG']",3855540
+ROUNDS,False,2021,32548.0,,"['Action', 'Indie']",1557740
+Dark Hours,False,2025,2824.0,,"['Action', 'Adventure']",2208570
+Cookie Clicker,False,2021,82009.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",1454400
+WolfQuest: Anniversary Edition,False,2025,10284.0,,"['Action', 'RPG', 'Simulation']",926990
+The Sims™ 4 Businesses & Hobbies Expansion Pack,False,2025,,,"['Adventure', 'Casual', 'Simulation']",2815310
+火焰征程,True,2023,,,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",2492430
+FATAL FRAME II: Crimson Butterfly REMAKE,False,2026,,,"['Action', 'Adventure']",3920610
+Beam Eye Tracker,False,2023,639.0,,"['Racing', 'Simulation', 'Utilities', 'Video Production', 'Game Development']",2375780
+Monster Hunter World: Iceborne,False,2020,17924.0,87.0,['Action'],1118010
+Trove,True,2015,964.0,,"['Action', 'Adventure', 'Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",304050
+Heart of the Machine,False,2025,1387.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",2001070
+Ready or Not: Home Invasion,False,2024,2664.0,,"['Action', 'Adventure', 'Indie']",3015760
+MLB Rivals,True,2025,,,"['Sports', 'Free To Play']",2569510
+My Singing Monsters,True,2021,,,"['Casual', 'Simulation', 'Free To Play']",1419170
+"Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack",False,2025,150.0,,"['Action', 'Adventure', 'RPG']",3871350
+Call of the Sea,False,2020,3916.0,78.0,"['Adventure', 'Casual', 'Indie']",1042490
+Holdfast: Nations At War,False,2020,24373.0,,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",589290
+Banishers: Ghosts of New Eden,False,2024,5644.0,,"['Action', 'Adventure', 'RPG']",1493640
+Staffer Case: A Supernatural Mystery Adventure,False,2023,3551.0,,['Adventure'],2128480
+Street Fighter™ 6 - Year 3 Ultimate Pass,False,2025,,,"['Action', 'Adventure']",3410470
+Out of Ore,False,2022,3373.0,,"['Adventure', 'Casual', 'Simulation', 'Strategy']",2009350
+The Painscreek Killings,False,2017,5275.0,,"['Adventure', 'Indie']",624270
+Battlefield™ 1,False,2020,182857.0,,"['Action', 'Massively Multiplayer']",1238840
+EA SPORTS™ WRC,False,2023,9942.0,80.0,"['Racing', 'Simulation', 'Sports']",1849250
+Fetish Locator: S&M Studio,False,2025,150.0,,"['Casual', 'Indie', 'Simulation']",3763690
+Sun Haven,False,2023,20977.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1432860
+Stellaris: Infernals Species Pack,False,2025,189.0,,"['Simulation', 'Strategy']",3283220
+The Sims™ 4 Adventure Awaits Expansion Pack,False,2025,,,"['Simulation', 'Strategy']",3548850
+Empires of the Undergrowth - Supporter Pack,False,2025,,,"['Simulation', 'Strategy']",3402630
+The Sims™ 4 Get To Work,False,2020,271.0,,['Simulation'],1235734
+Victoria 3: Charters of Commerce - Mechanics Pack,False,2025,978.0,,"['Simulation', 'Strategy']",3450170
+Infinity Kingdom,True,2021,,,"['Adventure', 'Free To Play', 'Massively Multiplayer', 'Strategy']",1573360
+Scam Line,False,2026,,,"['Indie', 'Early Access']",2794590
+Journey,False,2020,33067.0,,"['Adventure', 'Indie']",638230
+Goose Goose Duck,True,2021,,,"['Casual', 'Indie', 'Massively Multiplayer', 'Strategy', 'Free To Play']",1568590
+The Bazaar - Celebrity Chef Warrior Mom Expansion,False,2025,,,['Strategy'],4082620
+The Long Drive,False,2019,46598.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']",1017180
+Pathologic 3 - Supporter Pack,False,2026,,,"['Adventure', 'Indie', 'RPG', 'Simulation']",4250480
+JAKE SULLY TORUK MAKTO STARTER PACK - AVATAR: FRONTIERS OF PANDORA™,False,2025,,,"['Action', 'Adventure']",3914600
+Wobbly Life,False,2025,29352.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",1211020
+Legends of Dragaea: Idle Dungeons,False,2025,740.0,,"['Adventure', 'Casual', 'Indie', 'RPG']",2712380
+Eden Crafters,False,2024,1922.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']",2570210
+RPG Maker MZ,False,2020,1732.0,,"['RPG', 'Design & Illustration', 'Education', 'Web Publishing', 'Game Development']",1096900
+DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,False,2020,9557.0,,"['Adventure', 'RPG']",1295510
+Age of Empires IV: Knights of Cross and Rose ,False,2025,1307.0,,['Strategy'],3144890
+Deadzone: Rogue - MARK II Pack,False,2025,,,['Action'],4208730
+Vampire: The Masquerade® - Bloodlines™ 2,False,2025,9111.0,,"['Action', 'RPG']",532790
+The Alters,False,2025,12218.0,85.0,['Adventure'],1601570
+Your Only Move Is HUSTLE,False,2023,32402.0,,"['Action', 'Indie', 'Simulation', 'Strategy']",2212330
+Expansion - Hearts of Iron IV: Götterdämmerung,False,2024,1685.0,,"['Simulation', 'Strategy']",3152780
+Rail Route,False,2024,2210.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",1124180
+MIO: Memories in Orbit,False,2026,,,"['Action', 'Adventure', 'Indie']",1672810
+Golden Idol Mysteries: The Spider of Lanka,False,2023,479.0,,"['Adventure', 'Indie']",2377000
+wonderking,True,2026,,,"['Massively Multiplayer', 'RPG', 'Free To Play']",3825780
+Kunitsu-Gami: Path of the Goddess,False,2024,1702.0,85.0,"['Action', 'Strategy']",2510710
+Fate War,True,2025,,,"['Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",3581600
+Monster Hunter World: Iceborne,False,2020,17924.0,87.0,['Action'],1118010
+Call of Duty®: Black Ops 7 - BlackCell (Season 01),False,2025,,,['Action'],3993480
+ONE PIECE: PIRATE WARRIORS 4,False,2023,16522.0,75.0,['Action'],1089090
+XCOM® 2,False,2016,77043.0,88.0,['Strategy'],268500
+Poppy Playtime - Chapter 3,False,2024,9068.0,,"['Action', 'Adventure', 'Indie']",2555190
+MARVEL Cosmic Invasion,False,2025,1383.0,,"['Action', 'Adventure', 'Casual', 'Indie']",2753970
+A.V.A Global,True,2022,,,"['Action', 'Massively Multiplayer', 'Free To Play']",1473480
+Door Kickers 2: Task Force North,False,2025,11307.0,84.0,"['Action', 'Indie', 'Simulation', 'Strategy']",1239080
+Organized Inside,False,2025,999.0,,"['Casual', 'Indie', 'Simulation']",3609750
+"Ranch Simulator: Build, Hunt, Farm",False,2023,35940.0,,['Simulation'],1119730
+MechWarrior 5: Clans,False,2024,5094.0,,"['Action', 'Simulation']",2000890
+Draw & Guess,False,2021,31010.0,,"['Casual', 'Indie']",1483870
+Battlefield™ 6 - Phantom Upgrade,False,2025,418.0,,['Action'],3574360
+They Are Billions,False,2019,45058.0,77.0,['Strategy'],644930
+Military Incremental Complex,False,2025,525.0,,"['Simulation', 'Strategy']",3469750
+Cauldron,False,2025,1379.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",2619650
+Cassette Beasts,False,2023,8340.0,,"['Indie', 'RPG']",1321440
+Lust Theory Season 2,False,2023,896.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1754870
+The Killing Antidote,False,2024,6383.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2254890
+Five Hearts Under One Roof,False,2024,4958.0,,"['Adventure', 'RPG', 'Simulation']",3021100
+Monster Train 2,False,2025,7228.0,87.0,"['Indie', 'Strategy']",2742830
+FATAL FRAME II: Crimson Butterfly REMAKE,False,2026,,,"['Action', 'Adventure']",3920610
+Need for Speed™ Heat,False,2020,118186.0,72.0,"['Action', 'Adventure', 'Racing', 'Sports']",1222680
+Five Nights at Freddy's 3,False,2015,9885.0,68.0,"['Action', 'Indie', 'Simulation']",354140
+BLACK SOULS,False,2025,4796.0,,"['Adventure', 'Indie', 'RPG']",3755860
+Asphalt Legends ,True,2022,,,"['Action', 'Adventure', 'Racing', 'Sports', 'Free To Play']",1815780
+Barotrauma,False,2023,56768.0,81.0,"['Action', 'Indie', 'Simulation', 'Strategy']",602960
+Haste,False,2025,10369.0,,"['Action', 'Adventure', 'Indie', 'Racing']",1796470
+The Stanley Parable: Ultra Deluxe,False,2022,31779.0,,"['Adventure', 'Casual', 'Indie']",1703340
+Batman™: Arkham Knight,False,2015,103686.0,,"['Action', 'Adventure']",208650
+Neon White,False,2022,16104.0,89.0,"['Action', 'Adventure', 'Indie']",1533420
+Shredders,False,2022,3384.0,,"['Action', 'Simulation', 'Sports']",1874170
+The Wife Next Door,False,2024,1257.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",2710480
+Shredders,False,2022,3384.0,,"['Action', 'Simulation', 'Sports']",1874170
+American Truck Simulator - Oregon,False,2018,888.0,,"['Indie', 'Simulation']",800370
+Moving Out,False,2020,1695.0,79.0,"['Action', 'Casual', 'Indie', 'Simulation']",996770
+Two Point Museum: Zooseum,False,2025,127.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",3804850
+Old Market Simulator,False,2024,3792.0,,['Simulation'],2878420
+Horizon Zero Dawn™ Complete Edition,False,2020,94854.0,,"['Action', 'Adventure', 'RPG']",1151640
+Sprocket,False,2021,11116.0,,"['Action', 'Indie', 'Simulation', 'Early Access']",1674170
+Root,False,2020,4507.0,,"['Indie', 'Simulation', 'Strategy']",965580
+Age of Empires III: Definitive Edition (Base Game),False,2023,332.0,,['Strategy'],2477660
+Five Nights at Freddy's: Sister Location,False,2016,11065.0,62.0,"['Action', 'Indie', 'Simulation']",506610
+Don't Starve,False,2013,95313.0,79.0,"['Adventure', 'Indie', 'Simulation']",219740
+Asphalt Legends ,True,2022,,,"['Action', 'Adventure', 'Racing', 'Sports', 'Free To Play']",1815780
+ULTIMATE MARVEL VS. CAPCOM 3,False,2017,6108.0,,['Action'],357190
+Marvel's Midnight Suns,False,2022,16092.0,,"['RPG', 'Strategy']",368260
+Sam & Max: The Devil's Playhouse,False,2024,341.0,,"['Adventure', 'Indie']",2648050
+Portal,False,2007,164327.0,90.0,['Action'],400
+Dungeon Alchemist,False,2022,2412.0,,"['RPG', 'Early Access']",1588530
+Fever Meme,False,2025,2996.0,,"['Action', 'Adventure', 'Casual', 'Indie']",3110070
+Neon White,False,2022,16104.0,89.0,"['Action', 'Adventure', 'Indie']",1533420
+Company of Heroes,False,2006,11891.0,93.0,"['Action', 'Strategy']",228200
+Quasimorph,False,2023,4968.0,,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2059170
+Le Mans Ultimate - 2024 Pack 3,False,2024,,,"['Racing', 'Simulation', 'Sports']",3260810
+Trepang2,False,2023,13410.0,79.0,"['Action', 'Indie']",1164940
+STORY OF SEASONS: Grand Bazaar,False,2025,2698.0,,"['Casual', 'Simulation']",2508780
+Euro Truck Simulator 2 - Special Transport,False,2017,3644.0,,"['Indie', 'Simulation']",558245
+ヘブンバーンズレッド,True,2022,,,"['Adventure', 'RPG', 'Free To Play']",1973710
+Total War: WARHAMMER III - Forge of the Chaos Dwarfs,False,2023,3724.0,,"['Action', 'Strategy']",2059190
+SUPREMACY: WORLD WAR 3,True,2018,,,"['Indie', 'Massively Multiplayer', 'Strategy', 'Free To Play']",784950
+Cardfight!! Vanguard Dear Days 2,False,2025,518.0,,"['RPG', 'Strategy']",2457540
+Scrap Mechanic,False,2016,103693.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",387990
+SCP: 5K,False,2022,11571.0,,"['Action', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",872670
+American Truck Simulator - Washington,False,2019,709.0,,"['Indie', 'Simulation']",1015160
+Soulmask,False,2024,14000.0,,"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Free To Play', 'Early Access']",2646460
+HITMAN 3 Access Pass: HITMAN 2 Expansion,False,2022,529.0,87.0,"['Action', 'Adventure']",1829590
+"Warhammer 40,000: Battlesector",False,2021,4681.0,,['Strategy'],1295500
+and Roger,False,2025,1080.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",3308870
+Total War: SHOGUN 2,False,2011,36586.0,90.0,['Strategy'],201270
+Game of Thrones Winter is Coming,True,2019,,,"['Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",1105420
+Dispatch - Digital Deluxe Edition Upgrade,False,2025,239.0,,"['Adventure', 'Casual', 'Indie', 'Strategy']",3920280
+Paper Trail,False,2024,499.0,80.0,"['Adventure', 'Casual', 'Indie', 'Strategy']",1889740
+ROMANCE OF THE THREE KINGDOMS XIV,False,2020,12595.0,,['Simulation'],872410
+SUPERHOT VR,False,2017,8609.0,83.0,"['Action', 'Indie']",617830
+IT Specialist Simulator,False,2025,222.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",3266090
+Hitman: Absolution™,False,2012,45917.0,79.0,['Action'],203140
+Game of Thrones: Kingsroad,True,2025,1237.0,,"['Action', 'Adventure', 'RPG', 'Free To Play']",3183280
+DOOM: The Dark Ages,False,2025,22669.0,,['Action'],3017860
+Parcel Simulator,False,2025,2138.0,,"['Casual', 'Indie', 'Simulation']",2424010
+ARK Fantastic Tames - Dreadmare,False,2024,248.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3282470
+American Truck Simulator - Idaho,False,2020,598.0,,"['Indie', 'Simulation']",1209470
+Styx: Blades of Greed,False,2026,,,"['Action', 'Adventure']",3290690
+AI LIMIT,False,2025,20001.0,75.0,"['Action', 'Adventure', 'Indie', 'RPG']",2407270
+Subnautica: Below Zero,False,2021,92550.0,,"['Adventure', 'Indie']",848450
+Call to Arms - Gates of Hell: Liberation,False,2023,1051.0,,"['Action', 'Simulation', 'Strategy']",2447590
+3on3 FreeStyle: Rebound,True,2020,,,"['Action', 'Casual', 'Indie', 'RPG', 'Sports', 'Free To Play']",1292630
+Brick Rigs,False,2023,49133.0,,['Simulation'],552100
+THE FINALS - The Apothecarion Set,False,2025,,,"['Action', 'Free To Play']",4062430
+Ancient Farm,False,2026,,,"['Casual', 'Simulation']",1933930
+NBA 2K25,False,2024,30138.0,,"['Simulation', 'Sports']",2878980
+Voyagers of Nera,False,2025,1382.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2686630
+The Sims™ 4 City Living,False,2020,282.0,,['Simulation'],1235731
+SUPER ROBOT WARS Y,False,2025,1827.0,,"['RPG', 'Simulation', 'Strategy']",1909950
+Slots & Daggers,False,2025,5393.0,,"['Indie', 'Simulation', 'Strategy']",3631290
+Moonstone Island,False,2023,3690.0,80.0,"['Adventure', 'Indie', 'RPG']",1658150
+Need for Speed™ Unbound,False,2022,45040.0,,"['Action', 'Racing']",1846380
+Raiders of Blackveil,False,2025,822.0,,"['Action', 'Early Access']",3352240
+Catharage,False,2025,,,['Strategy'],3879850
+Slime Rancher,False,2017,131749.0,81.0,"['Action', 'Adventure', 'Indie', 'Simulation']",433340
+A Way Out,False,2020,68388.0,78.0,"['Action', 'Adventure', 'Indie']",1222700
+Abyssus - Brinefrost Pack,False,2026,,,"['Action', 'Adventure', 'Indie']",4168330
+Book of Yog Idle RPG,True,2022,,,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",1097430
+ARK Fantastic Tames - Pyromane,False,2024,816.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",2972680
+The Darkest Files,False,2025,421.0,80.0,"['Adventure', 'Indie', 'Simulation']",2058730
+Left 4 Dead,False,2008,55453.0,89.0,['Action'],500
+Counter-Strike: Source,False,2004,131427.0,88.0,['Action'],240
+Sonic Rumble,True,2025,,,"['Action', 'Free To Play']",2951690
+Death Must Die,False,2023,20402.0,,"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",2334730
+House Party,False,2022,13800.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",611790
+Intravenous 2,False,2024,3522.0,,"['Action', 'Adventure', 'Strategy']",2608270
+Half-Life 2,False,2004,192077.0,96.0,['Action'],220
+Cozy Island,False,2025,2009.0,,"['Adventure', 'Casual', 'Indie']",2918500
+Unpacking,False,2021,32945.0,83.0,"['Casual', 'Indie', 'Simulation']",1135690
+Riichi City × The Quintessential Quintuplets Specials 2,True,2022,,,[],1954420
+ERA ONE,False,2025,1161.0,,"['Strategy', 'Early Access']",2509200
+PIONER,False,2025,1854.0,,"['Action', 'Massively Multiplayer', 'RPG', 'Early Access']",3105890
+Command: Modern Operations,False,2019,1340.0,,['Simulation'],1076160
+Crow Country,False,2024,6289.0,,"['Action', 'Indie']",1996010
+Dungeon Defenders II,True,2017,2982.0,,"['Action', 'Indie', 'RPG', 'Strategy', 'Free To Play']",236110
+Nuclear Option,False,2023,5626.0,,"['Action', 'Indie', 'Simulation', 'Early Access']",2168680
+Storebound,False,2025,325.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",3417410
+Noobs Are Coming,False,2025,1294.0,,"['Action', 'Casual', 'Indie', 'RPG']",2225960
+Farm Together 2,False,2025,4075.0,,"['Casual', 'Indie', 'Simulation']",2418520
+Heroes of Hammerwatch II,False,2025,5203.0,,"['Action', 'Indie', 'RPG']",619820
+The Sims™ 4 Cottage Living Expansion Pack,False,2021,283.0,,"['Casual', 'Simulation']",1458150
+Predecessor,True,2024,8347.0,,"['Action', 'Strategy', 'Free To Play']",961200
+Life is Strange - Episode 1,True,2015,121568.0,,"['Action', 'Adventure']",319630
+Deadly Days: Roadtrip,False,2025,2300.0,,"['Action', 'Indie', 'Early Access']",3026450
+NBA 2K26 MyTEAM Season 4 Bonus Offer,False,2026,,,['Sports'],3657780
+Gunfire Reborn - Echoes From Primal Grove,False,2025,219.0,,"['Action', 'Adventure', 'Indie', 'RPG']",3920680
+Dwarf Fortress,False,2022,28029.0,93.0,"['Indie', 'Simulation', 'Strategy']",975370
+DSX,False,2022,6760.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Utilities']",1812620
+"Warhammer 40,000: Space Marine 2 - Dark Angels Chapter Pack",False,2024,397.0,,"['Action', 'Adventure', 'RPG']",2792170
+The Sims™ 4 City Living,False,2020,282.0,,['Simulation'],1235731
+DSX,False,2022,6760.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Utilities']",1812620
+Empires of the Undergrowth - Exploding Ants,False,2025,111.0,,"['Simulation', 'Strategy']",3402420
+Food Processing Simulator,False,2025,115.0,,"['Indie', 'Simulation', 'Early Access']",3928990
+Mahjong Soul,True,2024,,,"['Casual', 'Strategy']",2739990
+Far Cry® 5,False,2018,165575.0,,"['Action', 'Adventure']",552520
+Turmoil,False,2016,12664.0,73.0,"['Indie', 'Simulation', 'Strategy']",361280
+Raiders of Blackveil,False,2025,822.0,,"['Action', 'Early Access']",3352240
+Prison Architect,False,2015,59288.0,83.0,"['Indie', 'Simulation', 'Strategy']",233450
+Call of Duty: World at War,False,2008,44532.0,83.0,['Action'],10090
+Bendy and the Dark Revival,False,2022,12428.0,72.0,"['Action', 'Adventure']",1063660
+Fable Anniversary,False,2014,13485.0,,['RPG'],288470
+Euro Truck Simulator 2 - Forest Machinery,False,2025,102.0,,"['Indie', 'Simulation']",4159240
+SIDE EFFECTS,False,2025,564.0,,"['Indie', 'Strategy']",3799100
+Drova - Forsaken Kin,False,2024,8504.0,78.0,"['Action', 'Adventure', 'Indie', 'RPG']",1585180
+City Car Driving,False,2016,30694.0,,"['Indie', 'Racing', 'Simulation']",493490
+Guild Wars 2: Visions of Eternity™ Expansion,False,2025,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",3845870
+Persona® 5 Strikers,False,2021,12391.0,76.0,"['Action', 'Adventure']",1382330
+PICO PARK,False,2021,23279.0,,"['Action', 'Casual', 'Indie']",1509960
+Rust - Voice Props Pack,False,2021,1832.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",1670430
+Who's Your Daddy?!,False,2016,25188.0,,"['Action', 'Casual', 'Indie']",427730
+That's not my Neighbor,False,2025,3696.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",3431040
+Void Crew,False,2024,6216.0,80.0,"['Action', 'Adventure']",1063420
+MEGA MAN X DiVE Offline,False,2023,1601.0,,"['Action', 'RPG']",2183650
+FINAL FANTASY X/X-2 HD Remaster,False,2016,18195.0,,['RPG'],359870
+"Digimon Story Time Stranger - Outer Dungeons The Halls of EXP, Gold, Materials",False,2025,579.0,,['RPG'],3524380
+Undisputed,False,2024,17955.0,,"['Action', 'Simulation', 'Sports']",1451190
+Pathologic Classic HD,False,2015,3651.0,76.0,"['Action', 'Adventure', 'Indie', 'RPG']",384110
+"Hot Dogs, Horseshoes & Hand Grenades",False,2016,21821.0,,"['Action', 'Simulation', 'Early Access']",450540
+American Truck Simulator - Nebraska,False,2024,266.0,,"['Indie', 'Simulation']",2543810
+Crab Champions,False,2023,25043.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",774801
+Monmusu Girls: Autobattler,True,2025,,,"['Casual', 'RPG', 'Strategy', 'Free To Play']",3432270
+METAL GEAR RISING: REVENGEANCE,False,2014,67489.0,83.0,['Action'],235460
+Call to Arms - Gates of Hell: Liberation,False,2023,1051.0,,"['Action', 'Simulation', 'Strategy']",2447590
+Lorelei and the Laser Eyes,False,2024,2604.0,88.0,"['Adventure', 'Indie']",2008920
+WW2 Rebuilder,False,2023,1375.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",1573280
+Luma Island,False,2024,10407.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",2408820
+Resident Evil 6,False,2013,42830.0,69.0,"['Action', 'Adventure']",221040
+Superliminal,False,2020,26682.0,,"['Action', 'Adventure']",1049410
+The Surge 2,False,2019,6947.0,76.0,"['Action', 'RPG']",644830
+Skate Story,False,2025,1647.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Sports']",1263240
+SPORE™,False,2008,63696.0,84.0,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation', 'Strategy']",17390
+American Truck Simulator - Utah,False,2019,512.0,,"['Indie', 'Simulation']",1104880
+MX vs ATV Legends,False,2022,3295.0,,"['Racing', 'Sports']",1205970
+Granblue Fantasy: Relink,False,2024,37148.0,,"['Action', 'Adventure', 'RPG']",881020
+Guild Wars 2: End of Dragons™ Expansion,False,2022,102.0,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2008610
+Aurelia,False,2024,1914.0,,"['Adventure', 'Indie', 'RPG']",1231560
+Steep™,False,2016,29636.0,72.0,"['Action', 'Sports']",460920
+American Truck Simulator - Oklahoma,False,2023,412.0,,"['Indie', 'Simulation']",2209650
+Clue/Cluedo: Classic Edition,False,2018,2942.0,,"['Casual', 'Strategy']",794800
+art of rally,False,2020,5144.0,,"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']",550320
+Enotria: The Last Song,False,2024,1908.0,,"['Action', 'Adventure', 'Indie', 'RPG']",2102450
+Cronos: The New Dawn,False,2025,5715.0,,['Action'],2101960
+Kingdom Come: Deliverance II Mysteria Ecclesiae,False,2025,1100.0,,"['Action', 'Adventure', 'RPG']",3368620
+SWORD ART ONLINE Fractured Daydream,False,2024,1940.0,,"['Action', 'Casual', 'RPG']",1858630
+Command: Modern Operations,False,2019,1340.0,,['Simulation'],1076160
+Deadzone: Rogue - Operative Pack,False,2025,,,['Action'],3897660
+Nine-Ball Roulette,False,2025,1551.0,,"['RPG', 'Simulation', 'Sports']",3376250
+American Truck Simulator - New Mexico,False,2017,982.0,,"['Indie', 'Simulation']",684630
+Cash Cleaner Simulator,False,2025,6178.0,,"['Casual', 'Indie', 'Simulation']",2488370
+Ale & Tale Tavern,False,2024,7561.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",2683150
+Northgard: Definitive Edition,False,2018,53461.0,81.0,"['Adventure', 'Indie', 'Simulation', 'Strategy']",466560
+American Truck Simulator - Montana,False,2022,467.0,,"['Indie', 'Simulation']",1811080
+I Am Future: Cozy Apocalypse Survival,False,2024,3781.0,,"['Indie', 'RPG', 'Simulation']",1658040
+PBA Pro Bowling 2026,False,2025,177.0,,"['Indie', 'Simulation', 'Sports']",3127230
+John Carpenter's Toxic Commando,False,2026,,,"['Action', 'Adventure']",2157830
+Dead by Daylight - Tokyo Ghoul,False,2025,1679.0,,['Action'],3448670
+Operation: Tango,False,2021,6730.0,,"['Adventure', 'Casual']",1335790
+Mr. Prepper,False,2021,4605.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",761830
+Warframe: Gyre Prime Access - Weapons Pack,False,2025,,,"['Action', 'RPG', 'Free To Play']",4158160
+Dead by Daylight - Resident Evil: PROJECT W Chapter,False,2022,1729.0,,['Action'],2102730
+Tropical Monster Girls,False,2025,660.0,,"['Action', 'Indie', 'RPG', 'Early Access']",3060250
+Aliens: Dark Descent,False,2023,14256.0,75.0,"['Action', 'Strategy']",1150440
+Tom Clancy’s The Division 2 – Mutiny Season Bundle,False,2025,,,"['Action', 'Adventure', 'RPG']",4064190
+Mega Man Battle Network Legacy Collection Vol. 1,False,2023,1191.0,80.0,"['Action', 'RPG']",1798010
+House Builder,False,2024,2111.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1244630
+Divinity: Original Sin - Enhanced Edition,False,2015,25389.0,94.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",373420
+Evil West,False,2022,9253.0,,"['Action', 'Adventure', 'RPG']",1065310
+Lust Theory - Season 1,False,2022,3397.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1607130
+Blacksad: Under the Skin,False,2019,4926.0,,['Adventure'],1003890
+METAL GEAR & METAL GEAR 2: Solid Snake,False,2023,540.0,,['Action'],2131680
+MementoMori,True,2025,,,"['RPG', 'Free To Play']",2302530
+Kathy Rain: Director's Cut,False,2021,1075.0,87.0,"['Adventure', 'Indie']",1395030
+Outlast,False,2013,98015.0,80.0,"['Action', 'Adventure', 'Indie']",238320
+Chef RPG,False,2024,2101.0,,"['Adventure', 'RPG', 'Simulation', 'Early Access']",1796790
+UNCHARTED™: Legacy of Thieves Collection,False,2022,23701.0,,['Adventure'],1659420
+Potion Craft: Alchemist Simulator,False,2022,35442.0,,"['Indie', 'Simulation']",1210320
+Desktop Mate,True,2025,130.0,,"['Free To Play', 'Animation & Modeling', 'Utilities']",3301060
+AV Director Life!,False,2025,515.0,,"['Casual', 'Indie', 'Simulation']",3181220
+Idle Champions of the Forgotten Realms,True,2020,,,"['Action', 'Adventure', 'Indie', 'Strategy', 'Free To Play']",627690
+Battle Brothers - Beasts & Exploration,False,2018,356.0,,"['Indie', 'RPG', 'Strategy']",961930
+There Are No Orcs,False,2025,760.0,,"['Indie', 'Strategy']",3480990
+GROUND BRANCH,False,2018,20381.0,,"['Action', 'Indie', 'Simulation', 'Early Access']",16900
+Idle Hero TD - Tower Defense,True,2024,,,"['Action', 'Casual', 'Indie', 'Strategy', 'Free To Play', 'Early Access']",2897580
+American Truck Simulator - Colorado,False,2020,712.0,,"['Indie', 'Simulation']",1209471
+The Coffin of Andy and Leyley,False,2023,32444.0,,"['Adventure', 'RPG', 'Early Access']",2378900
+Mega Man Battle Network Legacy Collection Vol. 2,False,2023,479.0,80.0,"['Action', 'RPG']",1798020
+LEGO® Voyagers,False,2025,1251.0,,"['Adventure', 'Casual']",1538550
+Rocksmith® 2014 Edition REMASTERED LEARN & PLAY,False,2024,15051.0,,"['Casual', 'Simulation']",221680
+PBA Pro Bowling 2026,False,2025,177.0,,"['Indie', 'Simulation', 'Sports']",3127230
+Rocksmith® 2014 Edition REMASTERED LEARN & PLAY,False,2024,15051.0,,"['Casual', 'Simulation']",221680
+HITMAN 3 - Deluxe Pack,False,2022,389.0,87.0,"['Action', 'Adventure']",1829591
+There Are No Orcs,False,2025,760.0,,"['Indie', 'Strategy']",3480990
+DEATH STRANDING DIRECTOR'S CUT,False,2022,40975.0,85.0,"['Action', 'Adventure']",1850570
+Potion Craft: Alchemist Simulator,False,2022,35442.0,,"['Indie', 'Simulation']",1210320
+Tropical Monster Girls,False,2025,660.0,,"['Action', 'Indie', 'RPG', 'Early Access']",3060250
+GTFO,False,2021,44349.0,78.0,['Action'],493520
+Victoria 3: Iberian Twilight - Immersion Pack,False,2025,109.0,,"['Simulation', 'Strategy']",3562890
+Age of Empires IV:  The Sultans Ascend,False,2023,1659.0,,['Strategy'],1959430
+Breachway,False,2024,1181.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",2118810
+American Truck Simulator - Colorado,False,2020,712.0,,"['Indie', 'Simulation']",1209471
+Evil West,False,2022,9253.0,,"['Action', 'Adventure', 'RPG']",1065310
+MyVoiceZoo,False,2025,385.0,,"['Casual', 'Indie', 'Simulation']",4015530
+Battle Brothers - Warriors of the North,False,2019,304.0,,"['Indie', 'RPG', 'Strategy']",1067690
+Resident Evil 5,False,2009,38783.0,86.0,"['Action', 'Adventure']",21690
+Frostpunk,False,2018,108524.0,84.0,"['Simulation', 'Strategy']",323190
+Assassin's Creed® Origins,False,2017,113980.0,,"['Action', 'Adventure', 'RPG']",582160
+Easy Delivery Co.,False,2025,6515.0,,"['Casual', 'Indie', 'Racing', 'Simulation']",3293010
+Bendy and the Ink Machine,False,2017,22164.0,,"['Action', 'Adventure', 'Indie', 'Strategy']",622650
+The Sims™ 4 Seasons,False,2020,525.0,,['Simulation'],1235733
+KIBORG,False,2025,1004.0,,"['Action', 'Indie']",2405060
+Upload Labs,True,2025,,,"['Simulation', 'Free To Play']",3606890
+Lust Theory Season 3,False,2025,,,"['Action', 'Adventure', 'Casual']",2749380
+Golf It!,False,2023,23959.0,,"['Casual', 'Indie', 'Simulation', 'Sports']",571740
+Hardspace: Shipbreaker,False,2022,18634.0,83.0,['Simulation'],1161580
+STONKS-9800: Stock Market Simulator,False,2023,2259.0,,"['Indie', 'Simulation', 'Early Access']",1539140
+Spellmasons,False,2023,970.0,,"['Indie', 'Strategy']",1618380
+Sonic Frontiers,False,2022,21605.0,,"['Action', 'Adventure']",1237320
+Fox Sex Farm,False,2025,303.0,,"['Casual', 'RPG', 'Simulation']",3122920
+Standable: Full Body Estimation,False,2023,1391.0,,"['Indie', 'Utilities']",2370570
+Pathologic 3 Soundtrack,False,2026,,,[],4318180
+Sally Face - Episode One,False,2016,23613.0,,"['Adventure', 'Indie']",541570
+Sins of a Solar Empire II,False,2024,6511.0,,"['Simulation', 'Strategy']",1575940
+Rebellion GODSOUL: Awakening,False,2025,2237.0,,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",1213300
+Hero Siege,False,2014,34436.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",269210
+Heart Cage,False,2025,167.0,,"['Adventure', 'Indie', 'Simulation']",2570850
+VTube Studio - Remove Watermark,False,2021,,,"['Indie', 'Animation & Modeling', 'Video Production']",1520620
+Call of Duty® 4: Modern Warfare® (2007),False,2007,21100.0,92.0,['Action'],7940
+Street Fighter™ 6 - Year 2 Character Pass,False,2024,164.0,,"['Action', 'Adventure']",2825190
+Total War: WARHAMMER III - Malakai – Thrones of Decay,False,2024,1040.0,,"['Action', 'Strategy']",2891710
+Idle Hero TD - Tower Defense,True,2024,,,"['Action', 'Casual', 'Indie', 'Strategy', 'Free To Play', 'Early Access']",2897580
+Bopl Battle,False,2023,18995.0,,['Action'],1686940
+Fish to Dish: Idle Sushi,False,2025,1639.0,,"['Casual', 'Indie', 'RPG']",3399960
+BIGFOOT,False,2017,17271.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",509980
+The Eminence in Shadow: Master of Garden,True,2024,,,"['Action', 'Adventure', 'Casual', 'RPG', 'Strategy', 'Free To Play']",2776900
+Tavern Master,False,2021,11902.0,,"['Simulation', 'Strategy']",1525700
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,False,2016,71681.0,,"['Action', 'Adventure']",349040
+ATLYSS,False,2024,17917.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Early Access']",2768430
+Dead by Daylight - Resident Evil Chapter,False,2021,2178.0,,['Action'],1634040
+DEATH STRANDING DIRECTOR'S CUT,False,2022,40976.0,85.0,"['Action', 'Adventure']",1850570
+STONKS-9800: Stock Market Simulator,False,2023,2259.0,,"['Indie', 'Simulation', 'Early Access']",1539140
+Transport Fever 2,False,2019,24904.0,76.0,"['Casual', 'Indie', 'Simulation', 'Strategy']",1066780
+The Sims™ 4 Seasons,False,2020,525.0,,['Simulation'],1235733
+Hellish Quart,False,2021,7467.0,,"['Action', 'Early Access']",1000360
+Warframe: The Old Peace Complete Collection,False,2025,,,"['Action', 'RPG', 'Free To Play']",4157990
+Handyman Fantasy,False,2025,1243.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",2690010
+Rebellion GODSOUL: Awakening,False,2025,2237.0,,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",1213300
+Pathologic 3 Soundtrack,False,2026,,,[],4318180
+Sunkenland,False,2023,19451.0,,"['Action', 'Indie', 'Early Access']",2080690
+Zero Hour,False,2024,28185.0,,"['Action', 'Simulation', 'Strategy']",1359090
+Castle Crashers - Painter Boss Paradise,False,2025,909.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",3133920
+Supraland,False,2019,11422.0,85.0,"['Action', 'Adventure', 'Indie', 'RPG']",813630
+Spellmasons,False,2023,970.0,,"['Indie', 'Strategy']",1618380
+House Flipper 2 - Scooby-Doo DLC,False,2025,150.0,,"['Casual', 'Indie', 'Simulation']",3672960
+Thronefall,False,2024,21242.0,,"['Action', 'Indie', 'Strategy']",2239150
+Rec Room,True,2021,110.0,,"['Adventure', 'Casual', 'Massively Multiplayer', 'Free To Play']",471710
+GoreBox,False,2023,17703.0,,"['Action', 'Casual', 'Indie', 'Simulation']",2027330
+Coal LLC,False,2025,742.0,,"['Indie', 'Simulation', 'Strategy']",3361510
+Scorn,False,2022,11956.0,,"['Action', 'Adventure', 'Indie']",698670
+High On Life 2,False,2026,,,"['Action', 'Adventure']",2069250
+Stay Out,True,2019,,,"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",1180380
+Tavern Master,False,2021,11902.0,,"['Simulation', 'Strategy']",1525700
+Wingspan,False,2020,9190.0,84.0,"['Indie', 'Strategy']",1054490
+After Inc: Revival,False,2025,1050.0,,"['Simulation', 'Strategy', 'Early Access']",3337140
+Touhou Dystopian,False,2025,1762.0,,"['Action', 'Adventure', 'Indie', 'RPG']",3265060
+Okami HD,False,2017,7900.0,92.0,['Adventure'],587620
+Half-Life,False,1998,111198.0,96.0,['Action'],70
+Rust - Sunburn Pack,False,2020,1972.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",1353060
+American Truck Simulator - Wyoming,False,2021,470.0,,"['Indie', 'Simulation']",1415692
+Skull and Bones,False,2024,3157.0,,"['Action', 'RPG']",2853730
+Death Howl,False,2025,648.0,,"['Adventure', 'Indie', 'Strategy']",2825880
+The Bazaar - Ancient Alchemist Expansion,False,2025,,,['Strategy'],3884450
+shapez,False,2020,13364.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",1318690
+Crusader Kings III: Tours & Tournaments,False,2023,1427.0,,"['RPG', 'Simulation', 'Strategy']",2311920
+Snufkin: Melody of Moominvalley,False,2024,2922.0,,"['Adventure', 'Indie', 'RPG']",1808680
+Slaves of Rome,False,2024,1737.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",1380070
+Age of Empires II: Definitive Edition - Return of Rome,False,2023,1822.0,,['Strategy'],2141580
+Goat Simulator: Remastered,False,2024,778.0,,"['Adventure', 'Casual', 'Simulation']",1762930
+MY PLACE IS CURSED,False,2026,,,"['Casual', 'Indie', 'Early Access']",3201440
+ACE COMBAT™ 7: SKIES UNKNOWN,False,2019,42838.0,78.0,"['Action', 'Simulation']",502500
+SIGNALIS,False,2022,27261.0,,"['Action', 'Adventure', 'Indie']",1262350
+NARUTO TO BORUTO: SHINOBI STRIKER,False,2023,42368.0,,['Action'],633230
+Yakuza Kiwami,False,2025,309.0,,"['Action', 'Adventure', 'RPG']",3717330
+Crusader Kings III: Royal Court,False,2022,3197.0,83.0,"['RPG', 'Simulation', 'Strategy']",1303182
+MechWarrior 5: Mercenaries - Shadow of Kerensky,False,2025,330.0,,"['Action', 'Simulation']",3799610
+Seafarer: The Ship Sim,False,2025,1336.0,,"['Casual', 'Simulation', 'Early Access']",2582140
+Ultimate Epic Battle Simulator 2,False,2023,6626.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1468720
+MILF's Plaza,False,2024,1325.0,,"['Adventure', 'Casual', 'RPG']",2706300
+Lushfoil Photography Sim,False,2025,1302.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1749860
+Seafarer: The Ship Sim,False,2025,1336.0,,"['Casual', 'Simulation', 'Early Access']",2582140
+Ultimate Epic Battle Simulator 2,False,2023,6626.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1468720
+MILF's Plaza,False,2024,1325.0,,"['Adventure', 'Casual', 'RPG']",2706300
+Othercide,False,2020,4281.0,78.0,"['Indie', 'Strategy']",798490
+Lushfoil Photography Sim,False,2025,1302.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1749860
+Total War: WARHAMMER III - Elspeth – Thrones of Decay,False,2024,1199.0,,"['Action', 'Strategy']",2325832
+Wall World 2,False,2025,1310.0,,"['Action', 'Adventure', 'Indie', 'Strategy']",3467710
+Half-Life,False,1998,111197.0,96.0,['Action'],70
+War Robots: Frontiers,True,2025,733.0,,"['Action', 'Simulation', 'Free To Play']",1491000
+CUSTOM ORDER MAID 3D2 It's a Night Magic,False,2019,1423.0,,"['Adventure', 'Indie', 'Simulation']",1097580
+of the Devil,True,2025,252.0,,"['Adventure', 'Indie']",2739630
+Reign of Legends,True,2025,,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Free To Play', 'Early Access']",3892760
+American Truck Simulator - Kansas,False,2023,289.0,,"['Indie', 'Simulation']",2298430
+ACE COMBAT™ 7: SKIES UNKNOWN,False,2019,42838.0,78.0,"['Action', 'Simulation']",502500
+Stellaris: The Machine Age,False,2024,820.0,,"['Simulation', 'Strategy']",2840100
+SILENT HILL 2,False,2024,35918.0,,"['Action', 'Adventure']",2124490
+DJMAX RESPECT V - V LIBERTY IV PACK,False,2025,293.0,,"['Action', 'Casual', 'Sports']",4077430
+Granny,False,2018,7922.0,,"['Adventure', 'Indie']",962400
+The Sims™ 4 Horse Ranch Expansion Pack,False,2023,274.0,,"['Casual', 'Simulation']",1990600
+Melvor Idle,False,2021,14025.0,,"['Adventure', 'Casual', 'Indie', 'RPG']",1267910
+Her Story,False,2015,8042.0,86.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",368370
+The Sims™ 4 Enchanted by Nature Expansion Pack,False,2025,,,"['Simulation', 'Strategy']",3199780
+Monster Hunter Wilds - Hunter Layered Armor Set: Cosmoloid,False,2025,,,"['Action', 'Adventure', 'RPG']",3696610
+V-LOVER!,False,2025,1140.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",3044740
+Into the Radius 2,False,2024,3721.0,,"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",2307350
+NARUTO TO BORUTO: SHINOBI STRIKER,False,2023,42368.0,,['Action'],633230
+Yet Another Zombie Survivors,False,2023,11367.0,,"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",2163330
+Infinite Lagrange,True,2021,,,"['Massively Multiplayer', 'Simulation', 'Strategy']",1755920
+Street Fighter™ 6 - Year 2 Character Pass,False,2024,164.0,,"['Action', 'Adventure']",2825190
+U4iA - Season 1,False,2025,196.0,,"['Indie', 'RPG']",2890150
+The Lord of the Rings: Return to Moria™ Durin's Folk Expansion,False,2025,178.0,,"['Action', 'Adventure', 'RPG']",3874660
+>observer_,False,2017,3954.0,78.0,"['Adventure', 'Indie']",514900
+Observer: System Redux,False,2020,2270.0,,"['Adventure', 'Indie']",1386900
+ISLANDERS: New Shores,False,2025,954.0,83.0,"['Casual', 'Indie', 'Simulation', 'Strategy']",2368930
+Airborne Empire,False,2025,592.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2438680
+RISK: Global Domination,True,2020,145.0,,"['Casual', 'Strategy', 'Free To Play']",1128810
+Backseat Drivers,False,2025,479.0,,"['Casual', 'Indie', 'Racing', 'Simulation']",3558400
+STAR WARS Jedi: Fallen Order™,False,2019,144519.0,81.0,"['Action', 'Adventure']",1172380
+The Wolf Among Us,False,2013,30846.0,85.0,"['Action', 'Adventure', 'Casual']",250320
+MakeRoom,False,2025,697.0,78.0,"['Casual', 'Indie', 'Simulation']",2212670
+Nightingale,False,2024,14778.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",1928980
+EARTH DEFENSE FORCE 5,False,2019,9139.0,76.0,['Action'],1007040
+Kona,False,2017,2609.0,73.0,"['Adventure', 'Indie']",365160
+Wrap House Simulator🌯,False,2025,2138.0,,"['Casual', 'Indie', 'Simulation']",3533100
+Euro Truck Simulator 2 - Cabin Accessories,False,2015,2492.0,,"['Indie', 'Simulation']",388470
+Sam & Max Save the World,False,2020,1508.0,82.0,"['Adventure', 'Indie']",1440440
+Forever Skies,False,2025,7233.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",1641960
+Supermarket Together - The Cool Pack,False,2024,598.0,,"['Casual', 'Indie', 'Simulation', 'Free To Play']",3146530
+Shana - Priestess of Tona,False,2025,165.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",3757060
+IN HEAT: Lustful Nights,False,2024,2607.0,,"['Casual', 'Indie', 'Simulation', 'Early Access']",1962890
+Gorogoa,False,2017,17855.0,84.0,"['Adventure', 'Casual', 'Indie']",557600
+Tom Clancy’s The Division™,False,2016,74884.0,,"['Action', 'Adventure', 'RPG']",365590
+Metro Exodus,False,2020,109985.0,85.0,['Action'],412020
+Euro Truck Simulator 2 - Heavy Cargo Pack,False,2017,2405.0,,"['Indie', 'Simulation']",531131
+Ship Graveyard Simulator 2,False,2023,3210.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",2201940
+SWORD OF JUSTICE,True,2025,,,"['Action', 'Massively Multiplayer', 'RPG', 'Free To Play']",2782500
+Warframe: Gyre Prime - Accessories Pack,False,2025,,,"['Action', 'RPG', 'Free To Play']",4158140
+Stumble Guys,True,2021,11094.0,,"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Racing', 'Free To Play']",1677740
+Sam & Max Save the World,False,2020,1508.0,82.0,"['Adventure', 'Indie']",1440440
+Help! I'm Turning Into A Mermaid!,False,2026,,,['Adventure'],4115180
+Uncharted Waters Origin,True,2023,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'Free To Play']",1574360
+Aviassembly,False,2025,7394.0,,"['Simulation', 'Early Access']",2660460
+Under The Waves,False,2023,1272.0,,"['Adventure', 'Indie']",1975440
+MakeRoom,False,2025,697.0,78.0,"['Casual', 'Indie', 'Simulation']",2212670
+Observer: System Redux,False,2020,2270.0,,"['Adventure', 'Indie']",1386900
+Euro Truck Simulator 2 - High Power Cargo Pack,False,2014,1769.0,,"['Indie', 'Simulation']",304214
+Gloomhaven,False,2021,13217.0,82.0,"['Adventure', 'RPG', 'Strategy']",780290
+Airborne Empire,False,2025,592.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2438680
+RISK: Global Domination,True,2020,145.0,,"['Casual', 'Strategy', 'Free To Play']",1128810
+Battlefield™ V,False,2020,227670.0,,['Action'],1238810
+Inside the Backrooms,False,2022,37983.0,,"['Adventure', 'Indie', 'Early Access']",1987080
+STAR WARS Jedi: Fallen Order™,False,2019,144519.0,81.0,"['Action', 'Adventure']",1172380
+Battle Teams 2,True,2022,,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",1969870
+Crusader Kings III: Royal Court,False,2022,3197.0,83.0,"['RPG', 'Simulation', 'Strategy']",1303182
+The Past Within,False,2022,13972.0,,"['Adventure', 'Indie']",1515210
+Backseat Drivers,False,2025,479.0,,"['Casual', 'Indie', 'Racing', 'Simulation']",3558400
+"Warhammer 40,000: Space Marine 2 - Salamanders Cosmetic Pack",False,2025,211.0,,"['Action', 'Adventure', 'RPG']",3871360
+MY PLACE IS CURSED,False,2026,,,"['Casual', 'Indie', 'Early Access']",3201440
+Wrap House Simulator🌯,False,2025,2138.0,,"['Casual', 'Indie', 'Simulation']",3533100
+Forever Skies,False,2025,7233.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",1641960
+LOW VALUE JOB,False,2026,,,"['Casual', 'Indie']",4228890
+Tabletop Game Shop Simulator,False,2025,285.0,,"['Simulation', 'Early Access']",3524750
+My Dream Setup,False,2023,5862.0,,"['Casual', 'Indie', 'Simulation']",2200780
+Age of Reforging: The Freelands,False,2025,1763.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",1161830
+Ultimate Epic Battle Simulator 2,False,2023,6626.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1468720
+FINAL FANTASY XVI,False,2024,19977.0,,"['Action', 'RPG']",2515020
+Urban Myth Dissolution Center,False,2025,5087.0,,['Adventure'],2089600
+LEGO® Party!,False,2025,876.0,,"['Action', 'Casual']",1969370
+Fernbus Simulator,False,2016,7676.0,,"['Casual', 'Simulation']",427100
+Saloon Simulator,False,2025,687.0,,"['Simulation', 'Early Access']",1876930
+Hologuard,False,2026,,,"['Casual', 'Indie', 'Simulation']",3691000
+Noble Legacy,False,2025,483.0,,"['RPG', 'Simulation', 'Early Access']",3372710
+Age of Wonders 4: Giant Kings,False,2025,221.0,,['Strategy'],3181500
+The Room VR: A Dark Matter,False,2020,3740.0,,['Adventure'],1104380
+Total War: ROME REMASTERED,False,2021,11829.0,,['Strategy'],885970
+Nancy Drew®: Mystery of the Seven Keys™,False,2024,272.0,,"['Adventure', 'Casual']",1926590
+Caves of Qud,False,2024,11097.0,91.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",333640
+Tactical Assault VR,False,2023,2752.0,,"['Action', 'Simulation', 'Early Access']",2314160
+Urbek City Builder,False,2022,1609.0,,"['Indie', 'Simulation', 'Strategy']",1411740
+Stellaris: The Machine Age,False,2024,820.0,,"['Simulation', 'Strategy']",2840100
+Doki Doki Literature Club Plus!,False,2021,27652.0,81.0,"['Casual', 'Indie']",1388880
+Little Witch in the Woods,False,2025,10445.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",1594940
+蜉蝣之国的囚徒,False,2026,221.0,,"['Adventure', 'Indie', 'RPG']",3880360
+UBOAT,False,2024,23584.0,,"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",494840
+The Sims™ Legacy Collection,False,2025,2000.0,92.0,"['Casual', 'Simulation']",3314060
+MechWarrior 5: Mercenaries - Shadow of Kerensky,False,2025,330.0,,"['Action', 'Simulation']",3799610
+Pompeii: The Legacy,False,2025,142.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",2632240
+Le Mans Ultimate - 2024 Pack 5,False,2025,,,"['Racing', 'Simulation', 'Sports']",3511300
+The Precinct,False,2025,6729.0,,"['Action', 'Indie', 'Simulation']",490110
+Hello Neighbor,False,2017,19453.0,,"['Adventure', 'Indie', 'Strategy']",521890
+Pioneers of Pagonia,False,2025,4316.0,85.0,"['Simulation', 'Strategy']",2155180
+Celestial Empire,False,2025,527.0,,"['Simulation', 'Strategy', 'Early Access']",1330430
+DayZ Frostline,False,2024,2649.0,,"['Action', 'Adventure', 'Massively Multiplayer']",2968040
+CURE - A Hospital Simulator,False,2025,221.0,,"['Action', 'Early Access']",2786550
+theHunter: Call of the Wild™ - Alberta Hunting Preserve,False,2025,235.0,,"['Adventure', 'Simulation', 'Sports']",3570290
+Sledders,False,2025,3789.0,,"['Racing', 'Simulation', 'Sports']",2486740
+Katamari Damacy REROLL,False,2018,4721.0,81.0,"['Action', 'Casual']",848350
+SHINOBI: Art of Vengeance,False,2025,2493.0,86.0,['Action'],2361770
+"This Ain’t Even Poker, Ya Joker",False,2025,1123.0,,"['Casual', 'Indie', 'Strategy']",4038320
+Disney Dreamlight Valley: Wishblossom Ranch,False,2025,126.0,,"['Action', 'Adventure', 'Casual', 'RPG', 'Simulation']",3979520
+The Jackbox Party Pack 7,False,2020,3916.0,,"['Casual', 'Indie', 'Strategy']",1211630
+Outward Definitive Edition,False,2022,23274.0,,['RPG'],794260
+Feed and Grow: Fish,False,2016,19340.0,,"['Action', 'Indie', 'Simulation', 'Early Access']",429050
+Call of Duty®: Vanguard,False,2023,3700.0,,['Action'],1985820
+Sid Meier's Civilization® VI: Gathering Storm,False,2019,2460.0,80.0,['Strategy'],947510
+On Your Tail,False,2024,230.0,,"['Adventure', 'Indie', 'RPG', 'Simulation']",2132560
+Supermarket Together,True,2024,,,"['Casual', 'Indie', 'Simulation', 'Free To Play']",2709570
+Card Shop Simulator Multiplayer,False,2025,1165.0,,"['Casual', 'Simulation', 'Strategy']",3569500
+POSTAL 2,False,2012,108727.0,59.0,"['Action', 'Adventure', 'Indie']",223470
+Cat Quest III,False,2024,2775.0,83.0,"['Action', 'Adventure', 'Indie', 'RPG']",2305840
+Aimlabs+ Premium Membership,False,2023,173.0,,"['Action', 'Casual', 'Indie', 'Simulation', 'Free To Play']",2253310
+Noita,False,2020,77271.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",881100
+Idol Party 2 - Love Vibe,True,2025,,,"['Casual', 'Massively Multiplayer', 'RPG', 'Free To Play']",3798230
+Mecharashi,True,2025,,,"['RPG', 'Strategy', 'Free To Play']",3446920
+Battlefleet Gothic: Armada 2,False,2019,9294.0,77.0,['Strategy'],573100
+Dune: Imperium,False,2024,3295.0,,"['Simulation', 'Strategy']",1689500
+Tyrion Cuthbert: Attorney of the Arcane,False,2023,1372.0,,"['Casual', 'Indie']",1590230
+Wartales - Expansion: The Curse of Rigel,False,2025,106.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",4165520
+My Time at Portia,False,2019,34482.0,73.0,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",666140
+The Last Starship,False,2023,628.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",1857080
+Dead by Daylight - Sinister Grace,False,2025,479.0,,['Action'],4019590
+Vampire Survivors: Ode to Castlevania,False,2024,1768.0,95.0,"['Action', 'Casual', 'Indie', 'RPG']",3210350
+City Transport Simulator®,False,2025,1352.0,,['Simulation'],2604480
+Age of History 3,False,2024,15689.0,,"['Simulation', 'Strategy']",2772750
+Dungeon Clawler,False,2024,3032.0,,"['Action', 'Casual', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2356780
+Storyteller,False,2023,7426.0,,['Adventure'],1624540
+The Bus,False,2021,6650.0,,"['Simulation', 'Early Access']",491540
+Pavlov,False,2024,37749.0,,"['Action', 'Indie']",555160
+Oops.. Where's My Bikini?! 👙🔥,False,2025,102.0,,"['Adventure', 'Casual', 'Simulation']",2658660
+Keep on Mining!,False,2025,6480.0,,"['Casual', 'Indie']",3769130
+Karryn's Prison,False,2021,4151.0,,"['RPG', 'Simulation', 'Strategy']",1619750
+Workers & Resources: Soviet Republic - World Maps,False,2024,110.0,,"['Simulation', 'Strategy']",3333420
+WEBFISHING,False,2024,56334.0,,"['Casual', 'Indie', 'Massively Multiplayer']",3146520
+Project Wingman,False,2020,17156.0,75.0,"['Action', 'Indie', 'Simulation']",895870
+"Hold Me Tight All Night, Onii-chan!",False,2025,280.0,,"['Casual', 'Indie']",3155290
+Throne and Liberty Winter Celebration Pack: Bronze,False,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",4120020
+Biped 2,False,2025,345.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Strategy']",2560240
+CaseCracker2,False,2024,676.0,,"['Indie', 'Simulation', 'Strategy']",2294450
+Terminator 2D: NO FATE,False,2025,1163.0,,['Action'],1718460
+PC Building Simulator,False,2019,41683.0,,"['Indie', 'Simulation']",621060
+Constance,False,2025,1662.0,81.0,"['Action', 'Adventure', 'Indie']",2313700
+Cooking Simulator,False,2019,17324.0,64.0,"['Casual', 'Simulation']",641320
+Rift of the NecroDancer,False,2025,4752.0,,"['Action', 'Indie', 'RPG']",2073250
+Hail to the Rainbow,False,2025,1415.0,,"['Action', 'Adventure', 'Indie']",1699230
+The Walking Dead: The Telltale Definitive Series,False,2020,31097.0,,['Adventure'],1449690
+VALLEY OF MO’ARA STARTER PACK - AVATAR: FRONTIERS OF PANDORA™,False,2025,,,"['Action', 'Adventure']",3914620
+Small Spaces,False,2025,781.0,,"['Casual', 'Simulation', 'Early Access']",3151380
+Assetto Corsa - Ferrari 70th Anniversary Pack,False,2017,289.0,,"['Indie', 'Racing', 'Simulation', 'Sports']",675590
+Train Sim World® 5,False,2024,2847.0,,['Simulation'],2967990
+Stick Fight: The Game,False,2017,99044.0,,"['Action', 'Casual', 'Indie']",674940
+Mouthwashing,False,2024,31438.0,,"['Adventure', 'Indie']",2475490
+Tales of the Shire: A The Lord of The Rings™ Game,False,2025,2928.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",2016460
+BLEACH Rebirth of Souls,False,2025,4316.0,76.0,['Action'],1689620
+"Spiritual Bond ～Breaking the curse, Intertwining fates～",False,2026,,,"['Adventure', 'Casual', 'Indie', 'RPG']",3146610
+Touhou Mystia's Izakaya,False,2021,28255.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",1584090
+Against the Storm - Supporter Pack,False,2023,102.0,,"['Simulation', 'Strategy']",2712950
+theHunter Classic,True,2014,550.0,,"['Action', 'Adventure', 'Free To Play', 'Simulation', 'Sports']",253710
+Farlight 84,True,2023,,,"['Action', 'Adventure', 'Massively Multiplayer', 'Free To Play']",1928420
+Sora no Kiseki the 1st,False,2025,4190.0,,['RPG'],3447040
+FPV Kamikaze Drone,False,2023,10218.0,,"['Action', 'Massively Multiplayer', 'Simulation', 'Early Access']",2707940
+Zort,False,2024,10464.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",3121110
+Nunholy,False,2025,4588.0,,['Action'],2854740
+Danganronpa 2: Goodbye Despair,False,2016,26945.0,83.0,['Adventure'],413420
+Symphony of War: The Nephilim Saga,False,2022,12162.0,81.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",1488200
+Danganronpa: Trigger Happy Havoc,False,2016,31261.0,82.0,['Adventure'],413410
+My Little Puppy,False,2025,2806.0,,"['Action', 'Adventure', 'Casual', 'Indie']",2102040
+Becoming a King,False,2025,209.0,,"['Adventure', 'Casual', 'RPG', 'Simulation']",3597020
+State of Decay 2: Juggernaut Edition,False,2020,55581.0,69.0,"['Action', 'RPG', 'Simulation']",495420
+Assetto Corsa - Dream Pack 2,False,2015,294.0,,"['Indie', 'Racing', 'Simulation', 'Sports']",404430
+SUPERHOT,False,2016,27021.0,82.0,"['Action', 'Indie']",322500
+Shogun Showdown,False,2024,5701.0,,"['Indie', 'RPG', 'Strategy']",2084000
+Space Aces,True,2026,,,"['Action', 'Casual', 'Massively Multiplayer', 'Free To Play']",4220440
+Star Birds,False,2025,2106.0,,"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",2719750
+Yarimono,False,2024,3647.0,,"['Adventure', 'Indie', 'RPG']",2696050
+Bear and Breakfast,False,2022,4382.0,,"['Adventure', 'Casual', 'RPG', 'Simulation']",1136370
+Old World - Wrath of Gods,False,2025,,,"['Simulation', 'Strategy']",3406150
+Cloudpunk,False,2020,13288.0,73.0,"['Adventure', 'Indie', 'RPG']",746850
+Yakuza Kiwami 2,False,2025,285.0,,"['Action', 'Adventure', 'RPG']",3717340
+OCTOPATH TRAVELER II,False,2023,12277.0,,['RPG'],1971650
+War Thunder - BMPT-72 “Terminator-2” Pack,False,2025,,,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",4184650
+Best Served Cold,False,2025,436.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",3218530
+Gatekeeper,False,2025,2485.0,,"['Action', 'Adventure', 'Indie']",2106670
+Hero's Adventure: Road to Passion,False,2023,21663.0,,"['Adventure', 'Indie', 'RPG', 'Simulation']",1948980
+Mount & Blade: Warband,False,2010,133301.0,78.0,"['Action', 'RPG']",48700
+Heroes® of Might & Magic® III - HD Edition,False,2015,19293.0,65.0,"['RPG', 'Strategy']",297000
+Kingdom Two Crowns: Call of Olympus,False,2024,802.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",2736340
+Atelier Resleriana: The Red Alchemist & the White Guardian,False,2025,559.0,,['RPG'],3259600
+"JASON, Coming of Age",False,2025,826.0,,"['Adventure', 'Simulation']",3165830
+Hatsune Miku Logic Paint S+,False,2025,175.0,,['Casual'],3446190
+"Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack",False,2024,,,"['Action', 'Adventure', 'RPG']",2792140
+Age of Wonders 4: Thrones of Blood,False,2025,134.0,,['Strategy'],3976890
+Crusader Kings III: Legends of the Dead,False,2024,1629.0,,"['RPG', 'Simulation', 'Strategy']",2671060
+GWENT: The Witcher Card Game,True,2020,,80.0,"['RPG', 'Strategy', 'Free To Play']",1284410
+Capcom Arcade 2nd Stadium,True,2022,187.0,,"['Action', 'Free To Play']",1755910
+Need for Speed™ Most Wanted,False,2020,22157.0,78.0,"['Action', 'Adventure', 'Racing']",1262560
+Five Nights at Freddy's: Help Wanted 2,False,2023,4808.0,,"['Indie', 'Simulation']",2287520
+SCUM Deluxe Content Pack,False,2025,133.0,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer']",3596770
+Ukrainian Fight Drone Simulator (UFDS) - FPV drone simulator,False,2025,210.0,,"['Action', 'Massively Multiplayer', 'Simulation']",2862860
+Viscera Cleanup Detail,False,2015,17616.0,,"['Indie', 'Simulation']",246900
+A Case of Fraud,False,2025,255.0,,"['Adventure', 'Indie']",3036350
+SpongeBob SquarePants: Titans of the Tide,False,2025,732.0,79.0,"['Action', 'Adventure']",2479650
+Rise of the Tomb Raider™,False,2016,119611.0,86.0,"['Action', 'Adventure']",391220
+Destiny 2: The Final Shape,False,2024,5369.0,,"['Action', 'Adventure', 'Free To Play']",2336880
+Killing Floor 3,False,2025,14494.0,,['Action'],1430190
+Hamster Hunter,False,2023,349.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",2726490
+Windblown,False,2024,8515.0,,"['Action', 'Indie', 'Early Access']",1911610
+Paint the Town Red,False,2021,28031.0,,"['Action', 'Indie']",337320
+Tinkerlands,False,2025,3110.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2617700
+War of Rights,False,2018,12652.0,,"['Action', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Early Access']",424030
+Rune Factory: Guardians of Azuma,False,2025,2567.0,80.0,"['Action', 'Adventure', 'RPG']",2864560
+Laundering Simulator - Clean Cash and Laundry,False,2025,218.0,,"['Casual', 'Indie', 'Simulation']",3432750
+Being a DIK - Season 2,False,2022,985.0,,"['Adventure', 'Indie']",1215820
+Starcom: Unknown Space,False,2024,3742.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1750770
+Baby Steps,False,2025,1549.0,,"['Action', 'Adventure', 'Casual', 'Indie']",1281040
+Workers & Resources: Soviet Republic - Biomes,False,2024,149.0,,"['Simulation', 'Strategy']",2499360
+Egging On,False,2025,442.0,,"['Action', 'Adventure', 'Indie', 'Simulation']",2897610
+A Game About Digging A Hole™,False,2025,17225.0,,"['Adventure', 'Indie']",3244220
+Sifu,False,2023,18421.0,81.0,"['Action', 'Indie']",2138710
+LumineNight,False,2024,343.0,,"['Adventure', 'Indie']",2544570
+Dungeons & Dragons Online®,True,2012,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",206480
+MOBILE SUIT GUNDAM BATTLE OPERATION 2,True,2023,,,"['Action', 'Free To Play']",1367080
+NEW MONOPOLY®,False,2024,345.0,,"['Casual', 'Strategy']",2929170
+Heavenly Bodies,False,2021,3432.0,84.0,"['Action', 'Adventure', 'Indie', 'Simulation']",1138850
+The Sims™ 4 Life & Death Expansion Pack,False,2024,103.0,,"['Adventure', 'Casual', 'Simulation']",2815290
+Outbreak Island,False,2025,646.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Early Access']",1442530
+GNOSIA,False,2022,4092.0,,"['Adventure', 'Indie', 'RPG', 'Simulation']",1608290
+Drop Duchy,False,2025,2523.0,83.0,"['Adventure', 'Indie', 'Strategy']",2525310
+"Warhammer 40,000: Gladius - Rampage Pack",False,2025,,,['Strategy'],4084640
+Prison Escape Simulator: Dig Out,False,2025,2537.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",3672720
+Project Silverfish,False,2025,2430.0,,"['Action', 'Adventure', 'Indie', 'Early Access']",2941710
+Dead Rising Deluxe Remaster,False,2024,2709.0,79.0,"['Action', 'Adventure']",2527390
+Ravenfield,False,2017,73257.0,,"['Action', 'Indie', 'Early Access']",636480
+Destiny 2: Lawless Silver Bundle,False,2025,,,"['Action', 'Adventure', 'Free To Play']",3952700
+RAIDOU Remastered: The Mystery of the Soulless Army,False,2025,888.0,82.0,"['Action', 'RPG']",2288350
+Life Makeover,True,2023,,,"['Casual', 'Simulation']",2626940
+Yakuza Kiwami 2,False,2025,285.0,,"['Action', 'Adventure', 'RPG']",3717340
+SpongeBob SquarePants: Titans of the Tide,False,2025,732.0,79.0,"['Action', 'Adventure']",2479650
+theHunter: Call of the Wild™ - Silver Ridge Peaks,False,2020,804.0,,"['Adventure', 'Simulation', 'Sports']",1316840
+Biped 2,False,2025,345.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Strategy']",2560240
+Bionic Bay,False,2025,478.0,87.0,"['Action', 'Adventure', 'Casual', 'Indie', 'Racing']",1928690
+ARK Animated Series 109-Costumes Pack,False,2025,,,"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",3571730
+Destiny 2: The Edge of Fate,False,2025,2273.0,,"['Action', 'Adventure', 'Free To Play']",3186490
+SteamWorld Build,False,2023,1710.0,,"['Simulation', 'Strategy']",2134770
+Forts,False,2017,19937.0,74.0,"['Action', 'Indie', 'Strategy']",410900
+The Sims™ 4 Get Famous,False,2020,170.0,,['Simulation'],1235720
+Deconstruction Simulator,False,2025,1085.0,,"['Casual', 'Indie', 'Simulation']",2487150
+CONVRGENCE,False,2024,1126.0,,"['Action', 'Adventure', 'Early Access']",2609610
+Assassin's Creed Shadows - Premium Starter Pack,False,2025,,,"['Action', 'Adventure', 'RPG']",3362570
+Call of Duty®: Black Ops III - Der Eisendrache Zombies Map,False,2018,401.0,,"['Action', 'Adventure']",830450
+AI2U: With You 'Til The End,False,2025,1099.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Early Access']",2880730
+Killing Floor 3,False,2025,14494.0,,['Action'],1430190
+Touhou Mystia's Izakaya,False,2021,28255.0,,"['Casual', 'Indie', 'RPG', 'Simulation']",1584090
+Formula Legends,False,2025,586.0,,"['Action', 'Casual', 'Indie', 'Racing', 'Sports']",3194360
+We Were Here Expeditions: The FriendShip,False,2023,3411.0,82.0,"['Adventure', 'Casual', 'Indie']",2296990
+Heavenly Bodies,False,2021,3432.0,84.0,"['Action', 'Adventure', 'Indie', 'Simulation']",1138850
+BONEWORKS,False,2019,33840.0,72.0,"['Action', 'Adventure', 'Indie', 'Simulation']",823500
+Kings Call,True,2023,,,"['Massively Multiplayer', 'RPG', 'Strategy']",2674290
+Battle Bundle – Y9S4 – FOR HONOR,False,2025,,,['Action'],4196360
+Maktala: Slime Lootfest,False,2025,826.0,,"['Action', 'Casual', 'Indie', 'RPG', 'Strategy']",4005560
+Rabbit and Steel,False,2024,8409.0,,"['Action', 'Adventure', 'Indie', 'RPG']",2132850
+Le Mans Ultimate - 2024 Pack 1,False,2024,,,"['Racing', 'Simulation', 'Sports']",2973290
+The Scroll Of Taiwu,False,2018,49863.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy', 'Early Access']",838350
+Substance 3D Designer 2025,False,2025,,,"['Animation & Modeling', 'Design & Illustration', 'Game Development']",3366300
+Total War: WARHAMMER III - Champions of Chaos,False,2022,1278.0,,"['Action', 'Strategy']",1824060
+Squad - Fireteam ,False,2025,,,"['Action', 'Indie', 'Massively Multiplayer', 'Strategy']",4012030
+Assetto Corsa - Dream Pack 1,False,2015,697.0,,"['Indie', 'Racing', 'Simulation', 'Sports']",347990
+Sengoku Dynasty,False,2024,5930.0,,"['Adventure', 'RPG', 'Simulation']",1702010
+Atelier Resleriana: The Red Alchemist & the White Guardian,False,2025,559.0,,['RPG'],3259600
+Peglin,False,2024,15809.0,,"['Casual', 'Indie', 'RPG', 'Strategy']",1296610
+Icarus: Pet Companions Pack,False,2024,,,"['Action', 'Adventure', 'Simulation']",2923820
+Ukrainian Fight Drone Simulator (UFDS) - FPV drone simulator,False,2025,210.0,,"['Action', 'Massively Multiplayer', 'Simulation']",2862860
+日本事故物件監視協会2 -Japan Stigmatized Property-,False,2025,106.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",4193270
+Our Adventurer Guild,False,2024,2839.0,,"['Indie', 'RPG', 'Strategy']",2026000
+DAEMON MASQUERADE,False,2024,327.0,,"['Adventure', 'Casual', 'Indie']",2277090
+Lead the Way Pack - Battlefield™ 6 and REDSEC,False,2025,354.0,,['Action'],3933070
+Sally Face - Season Pass,False,2016,1116.0,,"['Adventure', 'Indie']",567990
+VOIN,False,2024,2358.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2464530
+Foolish Mortals,False,2025,331.0,,['Adventure'],1848440
+Placid Plastic Duck Simulator,False,2022,16833.0,,"['Casual', 'Simulation']",1999360
+theHunter: Call of the Wild™ - Game Feeder Pack,False,2025,,,"['Adventure', 'Simulation', 'Sports']",3992110
+VOIN,False,2024,2358.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2464530
+Placid Plastic Duck Simulator,False,2022,16833.0,,"['Casual', 'Simulation']",1999360
+theHunter: Call of the Wild™ - Game Feeder Pack,False,2025,,,"['Adventure', 'Simulation', 'Sports']",3992110
+Oxygen Not Included: The Prehistoric Planet Pack,False,2025,173.0,,"['Indie', 'Simulation']",3655420
+My Card Is Better Than Your Card!,False,2025,816.0,,"['Casual', 'Indie', 'Strategy', 'Early Access']",3617620
+Islets,False,2022,1492.0,,"['Action', 'Adventure']",1669420
+Expansion - Hearts of Iron IV: By Blood Alone,False,2022,2939.0,,"['Simulation', 'Strategy']",1880650
+Stationeers,False,2017,8027.0,,"['Action', 'Indie', 'Simulation', 'Early Access']",544550
+CRYO,False,2025,179.0,,"['Action', 'Indie', 'Early Access']",2564910
+Starcom: Unknown Space,False,2024,3742.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1750770
+The Darkside Detective: A Fumble in the Dark,False,2021,1500.0,84.0,"['Adventure', 'Casual', 'Indie']",795420
+Sam & Max: Beyond Time and Space,False,2021,412.0,84.0,"['Adventure', 'Indie']",1747050
+Town of Sins,True,2024,,,"['Action', 'Adventure', 'Casual', 'Strategy', 'Free To Play']",2449710
+The Elder Scrolls Online: 2025 Content Pass,False,2025,186.0,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",3474740
+Getting Over It with Bennett Foddy,False,2017,72592.0,,['Action'],240720
+暖雪 Warm Snow,False,2022,34645.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1296830
+The Sims™ 4 Discover University,False,2020,185.0,,"['Casual', 'Simulation']",1235722
+Anima Engine,False,2025,442.0,,['Animation & Modeling'],3474900
+Commandos: Origins,False,2025,1498.0,71.0,['Strategy'],1479730
+Baldur's Gate: Enhanced Edition,False,2013,14690.0,78.0,"['Adventure', 'RPG']",228280
+Guild Wars 2: Janthir Wilds™ Expansion,False,2024,,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2982320
+OVR Advanced Settings,False,2020,330.0,,['Utilities'],1009850
+"Warhammer 40,000: Gladius - Rampage Pack",False,2025,,,['Strategy'],4084640
+Nordhold,False,2025,2619.0,80.0,"['Indie', 'Strategy']",3028310
+RollerCoaster Tycoon® 3: Complete Edition,False,2020,2392.0,,"['Simulation', 'Strategy']",1368820
+Mortal Kombat X,False,2015,37515.0,84.0,['Action'],307780
+Astroneer: Megatech,False,2025,432.0,,"['Adventure', 'Indie']",3884830
+Catan Universe,True,2017,,,"['Casual', 'Strategy']",544730
+Software Inc.,False,2015,7288.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",362620
+"Warhammer 40,000: Boltgun - Forges of Corruption Expansion",False,2024,349.0,,"['Action', 'Indie']",2668290
+Expansion - Hearts of Iron IV: No Step Back,False,2021,3467.0,,"['Simulation', 'Strategy']",1348661
+PANICORE,False,2024,10069.0,,"['Action', 'Adventure', 'Indie']",2695940
+60 Seconds! Reatomized,False,2019,17058.0,,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1012880
+Legend of Heroes: Three Kingdoms,False,2025,6093.0,,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",3020510
+Abyssus - Brineguard Pack,False,2025,,,"['Action', 'Adventure', 'Indie']",3853790
+Railway Empire 2,False,2023,1789.0,75.0,"['Simulation', 'Strategy']",1644320
+Better Mart Simulator,False,2025,705.0,,"['Casual', 'Indie', 'Simulation']",3498270
+Femdom Wife Game - Zoe,False,2026,186.0,,"['Adventure', 'Casual', 'Simulation']",2018230
+The Long Dark: Tales from the Far Territory,False,2022,1614.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",2091330
+SPLITGATE: Arena Reloaded ,True,2025,,,"['Action', 'Free To Play']",2918300
+Mind Diver,False,2025,219.0,,"['Adventure', 'Indie']",2259330
+Total War: WARHAMMER III - Skulltaker – Omens of Destruction,False,2024,741.0,,"['Action', 'Strategy']",3130750
+Level Devil,False,2025,913.0,,"['Action', 'Adventure']",3242750
+Inari,False,2024,2053.0,,['Simulation'],2639100
+JoJo's Bizarre Adventure: All-Star Battle R,False,2022,11759.0,,['Action'],1372110
+Black Mesa,False,2020,129135.0,84.0,"['Action', 'Adventure', 'Indie']",362890
+Undusted: Letters from the Past,False,2025,929.0,,"['Casual', 'Indie', 'Simulation']",2891020
+Milky Way Idle,True,2025,,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",3224420
+Le Mans Ultimate - 2024 Pack 4,False,2025,,,"['Racing', 'Simulation', 'Sports']",3260820
+Hatsune Miku Logic Paint S+ SNOW MIKU Sky Town,False,2026,,,['Casual'],4039650
+Batman™: Arkham Origins,False,2013,42550.0,74.0,"['Action', 'Adventure']",209000
+Milky Way Idle,True,2025,,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",3224420
+Squad - Fireteam ,False,2025,,,"['Action', 'Indie', 'Massively Multiplayer', 'Strategy']",4012030
+Baldur's Gate: Enhanced Edition,False,2013,14690.0,78.0,"['Adventure', 'RPG']",228280
+Brighter Shores,True,2024,,,"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Free To Play', 'Early Access']",2791440
+Assassin's Creed® III Remastered,False,2019,12925.0,,"['Action', 'Adventure']",911400
+"Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack",False,2025,196.0,,"['Action', 'Adventure', 'RPG']",2792180
+Resident Evil 2,False,2019,128784.0,89.0,['Action'],883710
+Unnamed Space Idle,True,2023,,,"['Casual', 'Simulation', 'Free To Play', 'Early Access']",2471100
+theHunter: Call of the Wild™ - Game Feeder Pack,False,2025,,,"['Adventure', 'Simulation', 'Sports']",3992110
+Black Mesa,False,2020,129135.0,84.0,"['Action', 'Adventure', 'Indie']",362890
+Catan Universe,True,2017,,,"['Casual', 'Strategy']",544730
+Software Inc.,False,2015,7288.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",362620
+Level Devil,False,2025,913.0,,"['Action', 'Adventure']",3242750
+Expansion - Hearts of Iron IV: By Blood Alone,False,2022,2939.0,,"['Simulation', 'Strategy']",1880650
+AiliA,False,2026,,,"['Adventure', 'Indie']",1677100
+Astroneer: Megatech,False,2025,432.0,,"['Adventure', 'Indie']",3884830
+The Quinfall,False,2025,7165.0,,"['Massively Multiplayer', 'Early Access']",2294660
+Electrician Simulator,False,2022,3381.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1080020
+RollerCoaster Tycoon® 3: Complete Edition,False,2020,2392.0,,"['Simulation', 'Strategy']",1368820
+"Warhammer 40,000: Boltgun - Forges of Corruption Expansion",False,2024,349.0,,"['Action', 'Indie']",2668290
+Guild Wars 2: Secrets of the Obscure™ Expansion,False,2023,131.0,,"['Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",2450010
+Waifu Shop,True,2025,,,"['Casual', 'RPG', 'Free To Play']",3457380
+STAR WARS Jedi: Survivor™,False,2023,70183.0,,"['Action', 'Adventure']",1774580
+Boxes: Lost Fragments,False,2024,2763.0,,"['Adventure', 'Casual', 'Indie']",2019810
+GUNDAM BREAKER 4,False,2024,3288.0,80.0,"['Action', 'RPG']",1672500
+Femdom Wife Game - Zoe,False,2026,186.0,,"['Adventure', 'Casual', 'Simulation']",2018230
+Frontier Hunter: Erza’s Wheel of Fortune,False,2024,1739.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",1429500
+UBERMOSH,False,2015,5140.0,,"['Action', 'Indie']",357070
+SPLITGATE: Arena Reloaded ,True,2025,,,"['Action', 'Free To Play']",2918300
+Farming Simulator 19,False,2018,63897.0,73.0,['Simulation'],787860
+Tower Dominion,False,2025,4179.0,,['Strategy'],3226530
+Tiny Bunny,False,2025,25973.0,,"['Adventure', 'Indie']",1421250
+JoJo's Bizarre Adventure: All-Star Battle R,False,2022,11759.0,,['Action'],1372110
+The Long Dark: Tales from the Far Territory,False,2022,1614.0,,"['Adventure', 'Indie', 'Simulation', 'Strategy']",2091330
+Backpack Hero,False,2023,7174.0,76.0,"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",1970580
+World of Warplanes,True,2022,,69.0,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",790710
+Oxygen Not Included - Spaced Out!,False,2021,1169.0,,"['Indie', 'Simulation']",1452490
+The Sims™ 4 Lovestruck Expansion Pack,False,2024,104.0,,"['Adventure', 'Casual', 'Simulation']",2815270
+Victoria 3: National Awakening - Immersion Pack,False,2025,280.0,,"['Simulation', 'Strategy']",3562730
+Legend of Heroes: Three Kingdoms,False,2025,6093.0,,"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",3020510
+NieR:Automata™,False,2017,109888.0,84.0,"['Action', 'RPG']",524220
+WWE 2K25 Dunk & Destruction Pack,False,2025,,,"['Simulation', 'Sports']",3401660
+Dead by Daylight: The Walking Dead,False,2025,823.0,,['Action'],3884020
+theHunter: Call of the Wild™ - Emerald Coast Australia,False,2023,480.0,,"['Adventure', 'Simulation', 'Sports']",2383430
+Crypt Custodian,False,2024,2379.0,82.0,['Adventure'],2394650
+Generation Zero®,False,2019,28396.0,,"['Action', 'Adventure']",704270
+Kathana,True,2025,,,"['Massively Multiplayer', 'RPG', 'Early Access']",2081880
+Legend of Mortal,False,2024,31459.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",1859910
+Sonic Origins,False,2022,4512.0,,"['Action', 'Adventure', 'Casual']",1794960
+The Sims™ 4 Get Famous,False,2020,170.0,,['Simulation'],1235720
+Total War: WARHAMMER II - Rise of the Tomb Kings,False,2018,1926.0,84.0,"['Action', 'Strategy']",617870
+Command & Conquer™ Remastered Collection,False,2020,30573.0,82.0,['Strategy'],1213210
+"Warhammer 40,000: Warpforge",True,2024,,,"['Strategy', 'Free To Play']",1985170
+Corruption Town,False,2024,794.0,,"['RPG', 'Simulation', 'Strategy', 'Early Access']",2708950
+Dungeons 4,False,2023,2257.0,,"['Simulation', 'Strategy']",1643310
+The Jackbox Party Pack 3,False,2016,5037.0,,"['Casual', 'Indie', 'Strategy']",434170
+Fallen Elf Freya,False,2025,457.0,,"['Casual', 'RPG']",2651440
+Log.in,False,2026,,,"['Adventure', 'Indie']",4244930
+Just Cause™ 3,False,2015,101646.0,74.0,"['Action', 'Adventure']",225540
+The Darkside Detective,False,2017,3578.0,77.0,"['Adventure', 'Casual', 'Indie']",368390
+Rooftops & Alleys: The Parkour Game,False,2025,6266.0,,"['Indie', 'Simulation', 'Sports']",2703850
+RollerCoaster Tycoon® 2: Triple Thrill Pack,False,2014,4853.0,74.0,"['Simulation', 'Strategy']",285330
+Deviation Game,False,2025,,,"['Casual', 'Indie', 'Early Access']",3104020
+DRAGON BALL FighterZ,False,2018,53474.0,85.0,['Action'],678950
+The Spike Cross,True,2025,,,"['Action', 'Casual', 'Indie', 'Simulation', 'Sports', 'Free To Play']",3983810
+Dome Keeper Soundtrack,False,2022,,,[],2150000
+Tomb Raider Game of the Year,False,2013,164849.0,86.0,"['Action', 'Adventure']",203160
+Kingdom Rush 5: Alliance TD,False,2024,9128.0,,"['Indie', 'Strategy']",2849080
+ASTLIBRA Revision,False,2022,27884.0,,"['Action', 'Adventure', 'RPG']",1718570
+POPUCOM,False,2025,3149.0,83.0,"['Action', 'Adventure', 'Casual']",2543180
+Street Fighter™ 6 - Year 2 Ultimate Pass,False,2024,122.0,,"['Action', 'Adventure']",2825200
+theHunter: Call of the Wild™ - ATV SABER 4X4,False,2017,1569.0,,"['Adventure', 'Simulation', 'Sports']",630940
+The Mortuary Assistant,False,2022,6786.0,,"['Adventure', 'Indie', 'Simulation']",1295920
+"Little Kitty, Big City",False,2024,9590.0,,"['Adventure', 'Casual', 'Indie', 'Simulation']",1177980
+Multiverse Loot Hunter,False,2025,2420.0,,"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",2776450
+Canvas of Kings,False,2023,671.0,,"['Casual', 'Indie', 'RPG', 'Early Access']",2498570
+Ghost Janitors,False,2025,227.0,,"['Action', 'Adventure', 'Indie']",2772990
+KILL IT WITH FIRE! 2,False,2025,1236.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",2357000
+The Room 4: Old Sins,False,2021,16830.0,,['Adventure'],1361320
+theHunter: Call of the Wild™ - High Caliber Weapon Pack,False,2024,204.0,,"['Adventure', 'Simulation', 'Sports']",2701860
+Paddle Paddle Paddle,False,2025,1034.0,,"['Casual', 'Racing', 'Sports']",3570070
+Jerez's Arena Ⅲ,False,2025,447.0,,"['Adventure', 'Indie', 'RPG', 'Strategy']",2875610
+The Scouring,False,2025,789.0,,"['Action', 'RPG', 'Strategy', 'Early Access']",3338950
+Sherlock Holmes Chapter One - Victorian Starter Pack,False,2021,,,"['Action', 'Adventure']",1581901
+Tavern Talk - A Cozy Visual Novel,False,2024,1353.0,80.0,"['Adventure', 'Casual', 'Indie', 'Simulation']",2076140
+Feign,False,2025,4990.0,,"['Casual', 'Indie', 'RPG', 'Strategy']",1436990
+Realm of Ink,False,2024,3326.0,,"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",2597080
+Red Dead Online,False,2020,58500.0,,"['Action', 'Adventure']",1404210
+Persona 3 Portable,False,2023,4452.0,81.0,"['Adventure', 'RPG', 'Strategy']",1809700
+theHunter: Call of the Wild™ - Silver Ridge Peaks,False,2020,804.0,,"['Adventure', 'Simulation', 'Sports']",1316840
+FINAL FANTASY XV WINDOWS EDITION,False,2018,43115.0,,['RPG'],637650
+Mafia: Definitive Edition,False,2020,82287.0,78.0,"['Action', 'Adventure']",1030840
+CRYO,False,2025,179.0,,"['Action', 'Indie', 'Early Access']",2564910
+Anomalous Coffee Machine 2 - NSFW,False,2025,,,['Indie'],3875100
+Marble's Marbles,False,2026,,,"['Action', 'Adventure', 'Racing']",4137920
+MULLET MADJACK,False,2024,7496.0,88.0,"['Action', 'Indie']",2111190
+Dorfromantik,False,2022,26589.0,,"['Casual', 'Indie', 'Simulation', 'Strategy']",1455840
+Lost Records: Bloom & Rage,False,2025,5017.0,,"['Adventure', 'Indie']",1902960
+LEGO® Bricktales,False,2022,1639.0,75.0,"['Adventure', 'Casual', 'Simulation']",1898290
+Cult of the Lamb: Pilgrim Pack,False,2024,182.0,82.0,"['Action', 'Adventure', 'Indie', 'Strategy']",2890190
+Dark Deity 2,False,2025,1274.0,77.0,"['Adventure', 'Indie', 'RPG', 'Strategy']",2446600
+Car For Sale Simulator 2023,False,2024,18889.0,,"['Indie', 'Simulation']",2248760
+Fishing Planet: Chamaeleon Cruiser Pack,False,2025,,,"['Massively Multiplayer', 'Simulation', 'Sports', 'Free To Play']",3743490
+Fallout: A Post Nuclear Role Playing Game,False,2015,15435.0,89.0,['RPG'],38400
+WW2 Rebuilder: Remagen and Caen DLC,False,2026,,,"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",4140430
+The Sims™ 4 Discover University,False,2020,185.0,,"['Casual', 'Simulation']",1235722
+ZEPHON,False,2024,1542.0,,"['RPG', 'Strategy']",1481170
+コイカツ！ / Koikatsu Party - After Party,False,2021,169.0,,['Simulation'],1485180
+Among Us 3D,False,2025,2000.0,,['Casual'],3168600
+Total War: WARHAMMER II - Curse of the Vampire Coast,False,2018,1381.0,83.0,"['Action', 'Strategy']",835670
+Gamedec - Definitive Edition,False,2021,1060.0,72.0,"['Adventure', 'Indie', 'RPG']",917720
+theHunter: Call of the Wild™ - Scopes and Crosshairs Pack,False,2024,110.0,,"['Adventure', 'Simulation', 'Sports']",3106720
+Overlooting,False,2025,1190.0,,"['Adventure', 'RPG', 'Strategy']",3410180
+Stick It to the Stickman,False,2025,5880.0,,"['Action', 'Indie', 'Early Access']",2085540
+Orebound,False,2024,721.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early Access']",2467810
+Sektori,False,2025,499.0,93.0,['Action'],2105620
+The Sims™ 4 Realm of Magic,False,2020,164.0,,['Simulation'],1235746
+FINAL FANTASY VII EVER CRISIS,True,2023,,,"['Adventure', 'RPG']",2484110
+Sonic Adventure 2,False,2012,22400.0,,['Action'],213610
+Warframe: Oraxia Bundle,False,2025,,,"['Action', 'RPG', 'Free To Play']",3778430
+Expansion - Hearts of Iron IV: Arms Against Tyranny,False,2023,1909.0,,"['Simulation', 'Strategy']",2183930
+Incursion Red River,False,2024,6270.0,,"['Action', 'Early Access']",2116120
+MechWarrior 5: Clans - Wolves of Tukayyid,False,2025,204.0,,"['Action', 'Simulation']",4128140
+Out of the Park Baseball 26,False,2025,686.0,,"['Indie', 'Simulation', 'Sports', 'Strategy']",3116890
+Frosthaven,False,2025,551.0,,"['RPG', 'Strategy', 'Early Access']",2347080
+Prehistoric Kingdom,False,2022,4489.0,,"['Indie', 'Simulation', 'Strategy', 'Early Access']",666150
+Granblue Fantasy Versus: Rising,False,2023,5545.0,,['Action'],2157560
+Middle-earth™: Shadow of Mordor™,False,2014,61159.0,84.0,[],241930
+aerofly RC 10 - RC Flight Simulator,False,2023,124.0,,"['Indie', 'Simulation']",2394350
+your wife,False,2024,8016.0,,"['Casual', 'Indie']",3339420
+SnowRunner – Pathfinders Vinyl Wrap Pack,False,2025,,,"['Adventure', 'Simulation']",3777600
+Le Mans Ultimate - 2024 Pack 2,False,2024,,,"['Racing', 'Simulation', 'Sports']",3151390
+Total War: WARHAMMER III - Tamurkhan – Thrones of Decay,False,2024,859.0,,"['Action', 'Strategy']",2891700
+Magical Girl Celesphonia,False,2022,2882.0,,"['Adventure', 'Indie', 'RPG']",1786790
+Assassin's Creed Mirage,False,2024,9863.0,,"['Action', 'Adventure']",3035570
+Crystal of Atlan,True,2025,,,"['Action', 'Adventure', 'Massively Multiplayer', 'RPG', 'Free To Play']",3839850
+Jagged Alliance 3,False,2023,10150.0,81.0,"['Action', 'Strategy']",1084160
+NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS,False,2023,3356.0,,"['Action', 'Adventure']",1020790
+Assassin's Creed 2,False,2010,54448.0,86.0,"['Action', 'Adventure']",33230
+Street Fighter 30th Anniversary Collection,False,2018,2164.0,,['Action'],586200
+Clair Obscur: Expedition 33 – Deluxe Edition Upgrade,False,2025,650.0,,"['Action', 'RPG']",3228520
+Oxygen Not Included: Neutronium Cosmetics Pack,False,2025,111.0,,"['Indie', 'Simulation']",4157740
+Wasteland 3,False,2020,16738.0,85.0,"['RPG', 'Strategy']",719040
+The NOexistenceN of you AND me,False,2024,16254.0,,"['Adventure', 'Indie', 'RPG']",2873080
+Enigma of Fear,False,2024,2782.0,85.0,"['Action', 'Adventure', 'Indie']",1507580
+Void Miner – Incremental Asteroids Roguelite,False,2025,326.0,,"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",3772240
+VBridger,False,2022,160.0,,"['Casual', 'Animation & Modeling', 'Utilities']",1898830
+The Bazaar - Ingenious Engineer Expansion,False,2025,,,['Strategy'],3884460
+The Outer Worlds,False,2020,23840.0,82.0,['RPG'],578650
+TUNIC,False,2022,15349.0,85.0,"['Action', 'Adventure', 'RPG']",553420
+theHunter: Call of the Wild™ - Modern Rifle Pack,False,2022,594.0,,"['Adventure', 'Simulation', 'Sports']",1843410
+Warframe: The Old Peace Uriel Bundle,False,2025,,,"['Action', 'RPG', 'Free To Play']",4157970
+Tangle Tower,False,2019,5487.0,,"['Adventure', 'Indie']",359510
+Icarus: Creature Comforts Pack,False,2024,,,"['Action', 'Adventure', 'Simulation']",2790990
+Rivals of Aether,False,2017,32405.0,,['Indie'],383980
+Hydroneer,False,2020,25242.0,,"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",1106840
+Warframe: Gyre Prime Access - Prime Pack,False,2025,,,"['Action', 'RPG', 'Free To Play']",4158170
+Poker Fate - ACG Texas Hold'em,True,2026,,,"['Casual', 'Strategy', 'Free To Play']",4042800
+Euro Truck Simulator 2 - Wheel Tuning Pack,False,2016,825.0,,"['Indie', 'Simulation']",388475
+Golf With Your Friends - Olympus Odyssey Course,False,2024,,,"['Casual', 'Indie', 'Sports']",3041140
+Call of Duty® 2,False,2006,8701.0,86.0,['Action'],2630
+Hero Zero - Multiplayer RPG,True,2016,,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Free To Play']",482920
+Project Hospital,False,2018,7913.0,75.0,"['Indie', 'Simulation', 'Strategy']",868360
+Oblivity - Find your perfect Sensitivity,False,2022,1336.0,,"['Action', 'Casual', 'Indie', 'Simulation']",1389990
+Private Dorm Manager,False,2023,5854.0,,"['Indie', 'RPG']",2273420
+Total War: WARHAMMER II - The Twisted & The Twilight,False,2020,1138.0,,"['Action', 'Strategy']",1315750
+Unboxing the Cryptic Killer,False,2023,2034.0,,"['Adventure', 'Casual', 'Indie']",2069040
+Wolfenstein II: The New Colossus,False,2017,33317.0,86.0,['Action'],612880
+VTube Studio - VNet Multiplayer Collab,False,2023,,,"['Indie', 'Animation & Modeling', 'Video Production']",2384550
+Visage,False,2020,8345.0,81.0,"['Action', 'Adventure', 'Indie', 'Simulation']",594330
+Steel Division 2,False,2019,7879.0,73.0,"['Action', 'Indie', 'Simulation', 'Strategy']",919640
+Dungeons of Eternity,False,2025,686.0,,"['Action', 'Adventure', 'Indie', 'RPG']",3189340
+The Last Case of John Morley,False,2025,115.0,65.0,"['Adventure', 'Indie']",3636620
+Killer Frequency,False,2023,4490.0,,"['Adventure', 'Indie', 'Simulation']",1903620
+"STRAFTAT: Maps, Weapons and Hats",False,2024,404.0,,['Action'],3153370
+Suzerain,False,2020,9558.0,81.0,"['Adventure', 'Indie', 'RPG']",1207650
+Country Pack - Hearts of Iron IV: Graveyard of Empires,False,2025,2982.0,,"['Simulation', 'Strategy']",3152790
+Killing Floor 2,False,2016,86670.0,75.0,['Action'],232090
+Homicipher,False,2024,7093.0,,"['Adventure', 'Indie']",2302660
+Hatsune Miku: Project DIVA Mega Mix+,False,2022,17729.0,,['Action'],1761390
+Company of Heroes 3: Hammer & Shield Expansion Pack,False,2023,670.0,,"['Action', 'Strategy']",2068342
+CODE VEIN,False,2019,44853.0,72.0,"['Action', 'RPG']",678960
+Call of the Wild: The Angler™,False,2022,5924.0,,"['Adventure', 'Casual', 'Simulation', 'Sports']",1408610
+Aviary Attorney,False,2015,1103.0,77.0,"['Adventure', 'Indie']",384630
+Bus Flipper: Renovator Simulator,False,2025,429.0,,"['Indie', 'Simulation']",2174560
+X4: Timelines,False,2024,1920.0,,"['Action', 'Simulation']",2700340
+Asbury Pines,False,2025,391.0,,"['Adventure', 'Casual', 'Early Access']",2212790
+Skul: The Hero Slayer,False,2021,49788.0,80.0,"['Action', 'Indie']",1147560
+Knights in Tight Spaces,False,2025,707.0,,"['Action', 'Strategy']",2315400
+Business Tour - Board Game with Online Multiplayer,True,2017,,,"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Free To Play']",397900
+American Truck Simulator - Forest Machinery,False,2019,325.0,,"['Indie', 'Simulation']",1076080
+War Thunder - Two Fronts Pack,False,2024,114.0,,"['Action', 'Massively Multiplayer', 'Simulation', 'Free To Play']",3386550
+Winter Resort Simulator 2,False,2020,1168.0,,"['Casual', 'Indie', 'Simulation']",1420770
+Hunt: Showdown 1896 - Cry of the Caged Bird,False,2025,189.0,,['Action'],3713770
+Bad North: Jotunn Edition,False,2018,11395.0,,"['Action', 'Indie', 'Simulation']",688420
+Planet Coaster 2: Toybox Pack,False,2025,,,"['Simulation', 'Strategy']",4129920
+The Forever Winter,False,2024,19362.0,,"['Action', 'Early Access']",2828860
+Erenshor,False,2025,1644.0,,"['Action', 'Adventure', 'RPG', 'Early Access']",2382520
+Len's Island,False,2025,5355.0,,"['Action', 'Adventure', 'Indie', 'RPG']",1335830
