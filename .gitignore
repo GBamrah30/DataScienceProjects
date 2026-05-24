@@ -1,0 +1,28 @@
+# Data folders
+data/raw/
+data/cleaned/
+
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Database credentials / secrets
+*.env
+secrets.py
+database/connection.py
