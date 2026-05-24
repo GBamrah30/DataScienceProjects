@@ -10,7 +10,13 @@ An end-to-end data science project analyzing NYC motor vehicle collision data to
 
 **Live Dashboard:** *(coming soon)*
 
-**Dataset:** [NYC Motor Vehicle Collisions — NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+**Dataset:** 
+
+[Motor Vehicle Collisions - Crashes — NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
+[Motor Vehicle Collisions - Vehicles — NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4/about_data)
+
+[Motor Vehicle Collisions - Person — NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu/about_data)
 
 ---
 
