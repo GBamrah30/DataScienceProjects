@@ -1,7 +1,3 @@
-# Data folders
-data/raw/
-data/cleaned/
-
 # Virtual environment
 venv/
 .env
@@ -25,4 +21,4 @@ Thumbs.db
 # Database credentials / secrets
 *.env
 secrets.py
-database/connection.py
+EOF

@@ -25,4 +25,4 @@ Thumbs.db
 # Database credentials / secrets
 *.env
 secrets.py
-database/connection.py
+database/connection.pydatabase/connection.py
